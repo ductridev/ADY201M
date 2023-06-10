@@ -1,0 +1,35 @@
+```{r}
+library(ggplot2)
+library(dplyr)
+```
+
+```{r}
+data <- read.csv("./precipitation_mean_max_min_temp_1901_2020_vi.csv")
+print(is.data.frame(data))
+print(ncol(data))
+print(nrow(data))
+print(data)
+
+```
+
+```{r}
+years <- data['Giai.đoạn']
+print(unique(years))
+tempurature <- as.double(unlist(data['Nhiệt.độ.cao.nhất']))
+#tempurature <- append(tempurature, as.double(unlist(data['Nhiệt.độ.thấp.nhất'])))
+#print(tempurature)
+p <- ggplot(data, aes(x=Giai.đoạn, y=tempurature, fill=Giai.đoạn)) + geom_area()
+#print(p)
+```
+
+```{r}
+time <- as.numeric(rep(seq(1,4),each=4))  # x Axis
+value <- runif(16, 10, 100)               # y Axis
+group <- rep(LETTERS[1:4],times=4)        # group, one shape per group
+data <- data.frame(time, value, group)
+
+# stacked area chart
+ggplot(data, aes(x=time, y=value, fill=group)) + 
+    geom_area()
+
+```
