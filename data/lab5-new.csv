@@ -1,0 +1,668 @@
+address, price, area, room, toilet, hDirection, bDirection, floors, facade, road, juridical, interior
+"Dự án Dream Home, Phố Hoàng Thế Thiện, Phường Hòa Xuân, Cẩm Lệ, Đà Nẵng","4,75 tỷ",130 m²,,,,,,,,,
+"Phường An Khê, Thanh Khê, Đà Nẵng","6,45 tỷ",105 m²,4 phòng,4 phòng,Tây - Nam,Tây - Nam,3 tầng,5 m,7.5 m,Sổ đỏ/ Sổ hồng,Đầy đủ
+"Dự án Sun Cosmo Residence, Đường Trần Thị Lý, Ngũ Hành Sơn, Đà Nẵng",18 tỷ,250 m²,,,,,,,,,
+"Sơn Trà Ocean View, 95, Đường Ngô Quyền, Phường Thọ Quang, Sơn Trà, Đà Nẵng","1,55 tỷ",52 m²,1 phòng,1 phòng,Đông - Nam,Tây - Bắc,,,,Đang chờ sổ,Đầy đủ
+"Phường Hòa Quý, Ngũ Hành Sơn, Đà Nẵng","2,45 tỷ",100 m²,,,Đông - Nam,,,5 m,7.5 m,Sổ đỏ/ Sổ hồng,
+"Dự án FPT City Đà Nẵng, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng",Thỏa thuận,75 m²,2 phòng,2 phòng,Đông - Bắc,Đông - Bắc,,,,Sổ đỏ/ Sổ hồng,Đầy đủ
+"Đường 30/4, Phường Hòa Cường Bắc, Hải Châu, Đà Nẵng",150 triệu/m²,"855,6 m²",,,Đông - Bắc,,,,,,
+"Dự án FPT City Đà Nẵng, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng","1,9 tỷ",75 m²,2 phòng,2 phòng,Tây - Nam,Đông - Bắc,,,,Sổ đỏ/ Sổ hồng,Cơ bản
+"95, Phố Nguyễn Xí, Phường Hòa Minh, Liên Chiểu, Đà Nẵng","6,09 tỷ",125 m²,3 phòng,3 phòng,Đông - Bắc,,4 tầng,5 m,7.5 m,,
+"Kiệt 82, Đường Nguyễn Văn Linh, Phường Nam Dương, Hải Châu, Đà Nẵng","5,65 tỷ",140 m²,3 phòng,3 phòng,Tây,,,7 m,3.5 m,,
+"Dự án The Sang Residence, Đường Phạm Kiệt, Phường Khuê Mỹ, Ngũ Hành Sơn, Đà Nẵng.","4,61 tỷ",82 m²,2 phòng,2 phòng,Đông,Đông,,,,Sổ đỏ/ Sổ hồng,"Bàn giao nội Thất liền tường cao cấp như: Nhập khẩu từ Mỹ (Bếp từ, tủ bếp, máy hút khói, máy nóng lạnh, điều hòa âm trần, full nội thất nhà vệ sinh,... )."
+"Đường Núi Thành, Phường Hòa Thuận Đông, Hải Châu, Đà Nẵng",,,,,,,,,,,
+"Dự án The Filmore Da Nang, Đường Bạch Đằng, Phường Bình Thuận, Hải Châu, Đà Nẵng","9,31 tỷ","71,3 m²",2 phòng,2 phòng,,,,,,Sổ đỏ/ Sổ hồng,Cơ bản
+"Đường Lương Thế Vinh, Phường An Hải Đông, Sơn Trà, Đà Nẵng",10 tỷ,162 m²,,,Đông - Bắc,,,6.2 m,11 m,Sổ đỏ/ Sổ hồng,
+"Dự án Nam Cầu Tuyên Sơn-Nam Việt Á, Đường Đoàn Khuê, Phường Khuê Mỹ, Ngũ Hành Sơn, Đà Nẵng",Thỏa thuận,132 m²,,,Đông - Nam,,,,11 m,Sổ đỏ/ Sổ hồng,
+"Dự án FPT City Đà Nẵng, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng","3,9 tỷ",360 m²,,,,,,7.5 m,,,
+"Dự án Sun Cosmo Residence, Quận Ngũ Hành Sơn, Đà Nẵng","1,5 tỷ",29 m²,1 phòng,1 phòng,Đông - Nam,Đông - Nam,,,,Hợp đồng mua bán.,
+"Kiệt 42, Đường Núi Thành, Phường Hòa Thuận Đông, Hải Châu, Đà Nẵng","6,7 tỷ",81 m²,4 phòng,4 phòng,Tây - Nam,,3 tầng,4.5 m,4.5 m,Sổ hồng,Full nội thất.
+"Dự án The Sang Residence, Đường Phạm Kiệt, Phường Khuê Mỹ, Ngũ Hành Sơn, Đà Nẵng",Thỏa thuận,"105,5 m²",3 phòng,,,,,,,Sổ đỏ/ Sổ hồng,Đầy đủ
+"Phố Lý Thường Kiệt, Phường Thạch Thang, Hải Châu, Đà Nẵng",256 tỷ,1.500 m²,,,,,,,,,
+"Dự án The Monarchy, Đường An Trung 2, Phường An Hải Tây, Sơn Trà, Đà Nẵng","2,45 tỷ",73 m²,2 phòng,2 phòng,,,,,,,
+"Đường Quốc lộ 1A, Xã Hòa Phước, Hòa Vang, Đà Nẵng","3,8 tỷ",177 m²,,,Tây,,,5.5 m,35 m,,
+"Đường Hòa Liên 5, Xã Hòa Liên, Hòa Vang, Đà Nẵng","1,55 tỷ",100 m²,,,,,,,,,
+"Dự án Dream Home, Phố Hoàng Thế Thiện, Phường Hòa Xuân, Cẩm Lệ, Đà Nẵng","4,75 tỷ",130 m²,,,,,,,,,
+"586/3, Đường Điện Biên Phủ, Phường Thanh Khê Đông, Thanh Khê, Đà Nẵng","5,85 tỷ",123 m²,13 phòng,13 phòng,,,4 tầng,5 m,2.5 m,Sổ đỏ/ Sổ hồng.,
+"Đường Chu Huy Mân, Phường Nại Hiên Đông , Sơn Trà, Đà Nẵng",5 tỷ,89 m²,,,,,,5 m,15 m,Sổ đỏ chính chủ,
+"Đường Võ Nguyên Giáp, Phường Phước Mỹ, Sơn Trà, Đà Nẵng",Thỏa thuận,600 m²,,,,,,,,,
+"Đường Võ Văn Kiệt, Phường An Hải Đông, Sơn Trà, Đà Nẵng",Thỏa thuận,2.000 m²,,,,,,,,,
+"K196/75, Đường Trần Cao Vân, Phường Tam Thuận, Thanh Khê, Đà Nẵng","6,2 tỷ",140 m²,,,Đông,,,8.4 m,5.5 m,Sổ đỏ/ Sổ hồng,
+"Đường Trưng Nữ Vương, Phường Bình Thuận, Hải Châu, Đà Nẵng",22 tỷ,170 m²,,,Đông,,,8.4 m,15 m,Sổ đỏ/ Sổ hồng.,
+"Đường Nguyễn Tất Thành, Phường Hòa Hiệp Nam, Liên Chiểu, Đà Nẵng",138 triệu/m²,400 m²,,,,,,18.15 m,,Sổ đỏ,
+"Đường Vân Đồn, Phường Thọ Quang, Sơn Trà, Đà Nẵng",35 triệu/m²,3.814 m²,,,,,,45 m,,,
+"58/11B Ông Ích Khiêm, Phường Thanh Bình, Hải Châu, Đà Nẵng","3,45 tỷ",51 m²,3 phòng,4 phòng,Bắc,Bắc,3 tầng,4 m,12 m,Đầy đủ pháp lý.,Full nội thất.
+"Phường Hòa Thuận Đông, Hải Châu, Đà Nẵng",Thỏa thuận,70 m²,4 phòng,5 phòng,,,4 tầng,,,,
+"Dự án FPT City Đà Nẵng, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng","1,53 tỷ",68 m²,2 phòng,2 phòng,,,,,,,
+"Đường Nguyễn Tất Thành, Phường Hòa Hiệp Nam, Liên Chiểu, Đà Nẵng",55 triệu/m²,375 m²,,,,,,,,Sổ đỏ/ Sổ hồng,
+"Đường Hồ Nghinh, Phường Phước Mỹ, Sơn Trà, Đà Nẵng","39,5 tỷ",262 m²,,,Đông,,,10.7 m,20 m,Sổ đỏ/ Sổ hồng,
+"Phường Hòa Quý, Ngũ Hành Sơn, Đà Nẵng",4 tỷ,100 m²,3 phòng,3 phòng,Tây - Nam,Tây - Nam,2 tầng,5 m,7.5 m,Sổ đỏ/ Sổ hồng.,Cơ bản.
+"Đường Phan Huy Chú, Phường An Hải Tây, Sơn Trà, Đà Nẵng",10 tỷ,170 m²,,,Đông - Bắc,,,10 m,5.5 m,Sổ đỏ/ Sổ hồng,
+"Dự án The Sang Residence, Đường Phạm Kiệt, Phường Khuê Mỹ, Ngũ Hành Sơn, Đà Nẵng",Thỏa thuận,"105,5 m²",3 phòng,2 phòng,Đông - Nam,Đông - Nam,,,,Sổ đỏ/ Sổ hồng,Nội thất cao cấp.
+"Đường Phan Kế Bính, Phường Thuận Phước, Hải Châu, Đà Nẵng","5,6 tỷ",67 m²,2 phòng,1 phòng,Nam,Nam,1 tầng,4.3 m,6 m,Sổ đỏ/ Sổ hồng.,Không nội thất.
+"Đường Vân Đồn, Phường Nại Hiên Đông , Sơn Trà, Đà Nẵng","1,07 tỷ",52 m²,2 phòng,1 phòng,Nam,Bắc,,,,,
+"Dự án The Sang Residence, Đường Phạm Kiệt, Phường Khuê Mỹ, Ngũ Hành Sơn, Đà Nẵng",49 triệu/m²,"77,4 m²",2 phòng,2 phòng,,,,,,Sổ đỏ/ Sổ hồng,Cơ bản
+"Đường Trưng Nữ Vương, Phường Hòa Thuận Đông, Hải Châu, Đà Nẵng","2,55 tỷ",40 m²,3 phòng,3 phòng,Nam,,3 tầng,,,Sổ đỏ/ Sổ hồng,Cơ bản
+"Dự án The Sang Residence, Ngũ Hành Sơn, Đà Nẵng","3,7 tỷ","82,5 m²",2 phòng,2 phòng,Đông - Nam,Đông - Nam,,,,Sổ đỏ/ Sổ hồng,Đầy đủ
+"Dự án Sun Cosmo Residence, Đường Trần Thị Lý, Ngũ Hành Sơn, Đà Nẵng",130 triệu/m²,100 m²,18 phòng,,,,7 tầng,5 m,13.5 m,Sổ đỏ/ Sổ hồng,
+"Dự án FPT City Đà Nẵng, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng",Thỏa thuận,78 m²,2 phòng,2 phòng,Đông - Nam,Đông - Nam,,,,Sổ đỏ/ Sổ hồng,Đầy đủ
+"Đường Kinh Dương Vương, Phường Thanh Khê Tây, Thanh Khê, Đà Nẵng",Thỏa thuận,210 m²,,,,,,9 m,15 m,Sổ đỏ/ Sổ hồng,
+"Đường Nguyễn Mậu Tài, Phường Hòa Xuân, Cẩm Lệ, Đà Nẵng","5,85 tỷ",100 m²,3 phòng,4 phòng,Tây - Nam,,3 tầng,,,,Đầy đủ
+"Dự án Sun Cosmo Residence, Đường Trần Thị Lý, Ngũ Hành Sơn, Đà Nẵng",Thỏa thuận,98 m²,,,,,,,,,
+"Đường 602, Xã Hòa Ninh, Hòa Vang, Đà Nẵng","7,2 tỷ",3.500 m²,,,Đông - Nam,,,35 m,5 m,Sổ đỏ/ Sổ hồng,
+"Đường Thép Mới, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng","2,6 tỷ",100 m²,,,Bắc,,,,7.5 m,Sổ đỏ/ Sổ hồng,
+"Đường 5, Xã Hòa Ninh, Hòa Vang, Đà Nẵng",25 tỷ,80.000 m²,,,Nam,,,40 m,6 m,Sổ đỏ/ Sổ hồng,
+"Dự án Sun Cosmo Residence, Đường Trần Thị Lý, Ngũ Hành Sơn, Đà Nẵng",Thỏa thuận,49 m²,,,,,,,,,
+"Đường Cao Xuân Huy, Phường Khuê Trung, Cẩm Lệ, Đà Nẵng",10 tỷ,100 m²,3 phòng,3 phòng,Đông,Bắc,3 tầng,6 m,5.5 m,Sổ đỏ/ Sổ hồng,Đầy đủ
+"Dự án The Sang Residence, Đường Phạm Kiệt, Phường Khuê Mỹ, Ngũ Hành Sơn, Đà Nẵng",Thỏa thuận,83 m²,2 phòng,2 phòng,,,,,,Sổ đỏ/ Sổ hồng.,
+"Dự án FPT City Đà Nẵng, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng",32 triệu/m²,1.145 m²,,,Bắc,,,38 m,7.5 m,Sổ đỏ/ Sổ hồng,
+"Đường Mỹ Khê 4, Phường Khuê Mỹ, Ngũ Hành Sơn, Đà Nẵng",11 tỷ,150 m²,,,,,,5 m,5.5 m,Sổ đỏ/ Sổ hồng.,
+"Dự án The Sang Residence, Đường Phạm Kiệt, Phường Khuê Mỹ, Ngũ Hành Sơn, Đà Nẵng","3,68 tỷ","82,6 m²",1 phòng,1 phòng,Tây - Bắc,Đông - Nam,,,,Hợp đồng mua bán,Cơ bản
+"Xã Hòa Ninh, Hòa Vang, Đà Nẵng",,,,,,,,,,,
+"Dự án The Sang Residence, Đường Phạm Kiệt, Phường Khuê Mỹ, Ngũ Hành Sơn, Đà Nẵng",49 triệu/m²,"77,5 m²",,,,,,,,,
+"Dự án Sun Cosmo Residence, Đường Trần Thị Lý, Ngũ Hành Sơn, Đà Nẵng","1,45 tỷ","28,3 m²",1 phòng,1 phòng,Đông - Bắc,Đông - Bắc,,,,Hợp đồng mua bán,Không nội thất
+"Phường Hòa Quý, Ngũ Hành Sơn, Đà Nẵng","2,05 tỷ",100 m²,,,Bắc,,,5 m,5.5 m,,
+"Dự án The Sang Residence, Đường Phạm Kiệt, Phường Khuê Mỹ, Ngũ Hành Sơn, Đà Nẵng",Thỏa thuận,"82,6 m²",2 phòng,2 phòng,Tây - Nam,Đông - Bắc,,,,,
+"Dự án The Sang Residence, Đường Phạm Kiệt, Phường Khuê Mỹ, Ngũ Hành Sơn, Đà Nẵng","3,5 tỷ","82,5 m²",,,,,,,,,
+"Dự án FPT City Đà Nẵng, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng","1,8 tỷ",72 m²,2 phòng,2 phòng,,,,,,Sổ đỏ/ Sổ hồng,Cơ bản
+"Dự án Sun Cosmo Residence, Đường Trần Thị Lý, Ngũ Hành Sơn, Đà Nẵng",Thỏa thuận,48 m²,,,,,,,,Sổ đỏ/ Sổ hồng,
+"Dự án The Sang Residence, Đường Phạm Kiệt, Phường Khuê Mỹ, Ngũ Hành Sơn, Đà Nẵng","3,75 tỷ",82 m²,2 phòng,2 phòng,,,,,,Sổ đỏ/ Sổ hồng,
+"Đường Trần Cao Vân, Phường Tam Thuận, Thanh Khê, Đà Nẵng","3,9 tỷ",50 m²,4 phòng,3 phòng,,,3 tầng,,5 m,Sổ đỏ/ Sổ hồng,Đầy đủ
+"Dự án The Sang Residence, Đường Phạm Kiệt, Phường Khuê Mỹ, Ngũ Hành Sơn, Đà Nẵng","3,5 tỷ","82,5 m²",2 phòng,2 phòng,,,,,,Sổ đỏ/ Sổ hồng,"- Cửa chính là gỗ công nghiệp chống cháy hiệu An Cường, khóa thông minh mở bằng vân tay hoặc nhập mã số hiệu Hafele. - Sàn nhà SPC chống nước, chống ẩm mốc, chống trượt. - Trần thạch cao khung xương."
+"Đường Lê Đình Thám, Phường Hòa Thuận Đông, Hải Châu, Đà Nẵng","9,5 tỷ",54 m²,,,Tây - Bắc,,,4.5 m,,,
+"Đường Núi Thành, Phường Hòa Thuận Đông, Hải Châu, Đà Nẵng","3,4 tỷ",55 m²,,,,,,4 m,,,
+"Dự án FPT City Đà Nẵng, Đường Nam Kỳ Khởi Nghĩa, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng","3,13 tỷ",144 m²,,,,,,6 m,7.5 m,Đã có sổ,
+"Đường Hòa Liên 3, Xã Hòa Liên, Hòa Vang, Đà Nẵng","1,65 tỷ",127 m²,,,Đông - Bắc,,,5 m,7.5 m,Sổ đỏ/ Sổ hồng,
+"Dự án Sun Cosmo Residence, Đường Trần Thị Lý, Phường Khuê Mỹ, Ngũ Hành Sơn, Đà Nẵng",60 triệu/m²,50 m²,1 phòng,1 phòng,,,,,,,
+"Phường Hòa Hiệp Nam, Liên Chiểu, Đà Nẵng","2,1 tỷ",100 m²,,,Đông - Bắc,,,,,,
+"Dự án Fusion Resort & Villas Da Nang, Đường Trường Sa, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng",Thỏa thuận,932 m²,6 phòng,6 phòng,Đông,,2 tầng,,,Sổ đỏ/ Sổ hồng,Đầy đủ
+"Dự án Wyndham Soleil Đà Nẵng, Đường Phạm Văn Đồng, Phường Phước Mỹ, Sơn Trà, Đà Nẵng",Thỏa thuận,121 m²,2 phòng,2 phòng,Đông,Đông,,,,Sổ hồng.,"Full nội thất chuẩn 5 sao quốc Tế: Kohler, Halefe, Corono, Daikin..."
+"Dự án Nam Cầu Tuyên Sơn-Nam Việt Á, Đường Đa Phước 3, Phường Khuê Mỹ, Ngũ Hành Sơn, Đà Nẵng","4,8 tỷ",100 m²,,,Đông - Nam,,,,,Sổ đỏ/ Sổ hồng,
+"Dự án One River, Đường Song Hào, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng",Thỏa thuận,300 m²,5 phòng,5 phòng,,,3 tầng,15 m,30 m,Sổ Hồng.,
+"Đường 11B, Xã Hòa Phước, Hòa Vang, Đà Nẵng","8,6 tỷ",2.029 m²,,,Đông - Bắc,,,40 m,5 m,Sổ đỏ/ Sổ hồng,
+"Đường Âu Cơ, Phường Hòa Khánh Bắc, Liên Chiểu, Đà Nẵng","1,35 tỷ",72 m²,2 phòng,2 phòng,,,,,,,"Tủ lạnh, 02 điều hoà, máy giặt, tủ nếp, huts mùi, bếp từ, bộ bàn ăn 4 ghế, full thiết bị nhà vệ sinh."
+"Đường Lê Tấn Trung, Phường Thọ Quang, Sơn Trà, Đà Nẵng",,,,,,,,,,,
+"Đường Thành Vinh 4, Phường Thọ Quang, Sơn Trà, Đà Nẵng",,,,,,,,,,,
+"Đường Đinh Công Trứ, Phường Thọ Quang, Sơn Trà, Đà Nẵng",,,,,,,,,,,
+"Phường An Khê, Thanh Khê, Đà Nẵng","6,45 tỷ",105 m²,4 phòng,4 phòng,Tây - Nam,Tây - Nam,3 tầng,5 m,7.5 m,Sổ đỏ/ Sổ hồng,Đầy đủ
+"Dự án Lakeside Palace, Phường Hòa Hiệp Nam, Liên Chiểu, Đà Nẵng","2,9 tỷ",100 m²,,,,,,,,Sổ đỏ/ Sổ hồng,
+"Đường Võ Nguyên Giáp, Phường Phước Mỹ, Sơn Trà, Đà Nẵng",Thỏa thuận,900 m²,,,Đông,,,,,,
+"Đường Âu Cơ, Phường Hòa Khánh Bắc, Liên Chiểu, Đà Nẵng","1,35 tỷ",72 m²,2 phòng,2 phòng,,,,,,,"Tủ lạnh, 02 điều hoà, máy giặt, tủ nếp, huts mùi, bếp từ, bộ bàn ăn 4 ghế, full thiết bị nhà vệ sinh."
+"Đường Lê Tấn Trung, Phường Thọ Quang, Sơn Trà, Đà Nẵng",,,,,,,,,,,
+"Đường Thành Vinh 4, Phường Thọ Quang, Sơn Trà, Đà Nẵng",,,,,,,,,,,
+"Đường Đinh Công Trứ, Phường Thọ Quang, Sơn Trà, Đà Nẵng",,,,,,,,,,,
+"Phường An Khê, Thanh Khê, Đà Nẵng","6,45 tỷ",105 m²,4 phòng,4 phòng,Tây - Nam,Tây - Nam,3 tầng,5 m,7.5 m,Sổ đỏ/ Sổ hồng,Đầy đủ
+"Dự án Lakeside Palace, Phường Hòa Hiệp Nam, Liên Chiểu, Đà Nẵng","2,9 tỷ",100 m²,,,,,,,,Sổ đỏ/ Sổ hồng,
+"Đường Võ Nguyên Giáp, Phường Phước Mỹ, Sơn Trà, Đà Nẵng",Thỏa thuận,900 m²,,,Đông,,,,,,
+"Đường Như Nguyệt, Phường Thuận Phước, Hải Châu, Đà Nẵng",Thỏa thuận,2.500 m²,,,,,,,,,
+"Phường Vĩnh Trung, Thanh Khê, Đà Nẵng",20 tỷ,110 m²,,,,,5 tầng,,,,
+"Dự án The Sang Residence, Đường Phạm Kiệt, Phường Khuê Mỹ, Ngũ Hành Sơn, Đà Nẵng","3,6 tỷ","82,5 m²",2 phòng,2 phòng,Đông - Nam,Tây - Bắc,,,,Sổ đỏ/ Sổ hồng,Đầy đủ
+"Đường Chương Dương, Phường Mỹ An, Ngũ Hành Sơn, Đà Nẵng",Thỏa thuận,260 m²,51 phòng,,,,,,,,
+"Đường Võ Văn Kiệt, Phường Phước Mỹ, Sơn Trà, Đà Nẵng",Thỏa thuận,2.700 m²,,,,,,,,,
+"Đường Lê Hữu Khánh, Phường Khuê Mỹ, Ngũ Hành Sơn, Đà Nẵng",14 tỷ,200 m²,,,,,,,,Sổ đỏ/ Sổ hồng,Đầy đủ
+"Đường Lê Đức Thọ, Phường Thọ Quang, Sơn Trà, Đà Nẵng",Thỏa thuận,4.000 m²,,,,,,,,,
+"Đường Lê Đức Thọ, Phường Thọ Quang, Sơn Trà, Đà Nẵng",Thỏa thuận,4.500 m²,,,,,,,,,
+"Đường Võ Nguyên Giáp, Phường Mân Thái, Sơn Trà, Đà Nẵng",Thỏa thuận,1.000 m²,,,,,,,,,
+"Dự án Premier Village, Đường Võ Nguyên Giáp, Phường Mỹ An, Ngũ Hành Sơn, Đà Nẵng",Thỏa thuận,450 m²,,,,,,,,,
+"Đường Hồ Nghinh, Phường Phước Mỹ, Sơn Trà, Đà Nẵng",Thỏa thuận,250 m²,,,,,,,,,
+"Đường Bạch Đằng, Phường Hòa Cường Bắc, Hải Châu, Đà Nẵng",Thỏa thuận,1.000 m²,,,Đông,,,,,,
+"Đường Hồ Nghinh, Phường Phước Mỹ, Sơn Trà, Đà Nẵng",Thỏa thuận,295 m²,,,,,,,,,
+"Đường Bạch Đằng, Phường Hòa Cường Bắc, Hải Châu, Đà Nẵng",Thỏa thuận,1.000 m²,,,Đông,,,,,,
+"Đường Hồ Nghinh, Phường Phước Mỹ, Sơn Trà, Đà Nẵng",Thỏa thuận,295 m²,,,,,,,,,
+"Đường Cổ Mân 8, Phường Mân Thái, Sơn Trà, Đà Nẵng",4 tỷ,"94,5 m²",3 phòng,2 phòng,Đông - Nam,,2 tầng,4.5 m,5.5 m,Đả có sổ,
+"Dự án The Royal Boutique Hotel & Condo Danang, Đường Bạch Đằng, Phường Bình Thuận, Hải Châu, Đà Nẵng","5,6 tỷ",59 m²,2 phòng,2 phòng,,,,,,Sổ đỏ/ Sổ hồng,Cơ bản.
+"Đường Nại Hiên Đông 11, Phường Nại Hiên Đông , Sơn Trà, Đà Nẵng",,,,,,,,,,,
+"Dự án The Royal Boutique Hotel & Condo Danang, Phường Bình Thuận, Hải Châu, Đà Nẵng","5,5 tỷ","58,89 m²",1 phòng,1 phòng,,,,,,Hợp đồng mua bán.,Cơ bản.
+"Phường Phước Mỹ, Sơn Trà, Đà Nẵng",,,,,,,,,,,
+"Dự án The Royal Boutique Hotel & Condo Danang, Phường Bình Thuận, Hải Châu, Đà Nẵng","5,5 tỷ",59 m²,,,,,,,,,
+"Đường Võ Như Hưng, Phường Mỹ An, Ngũ Hành Sơn, Đà Nẵng",,,,,,,,,,,
+"Đường Trần Quang Khải, Phường Thọ Quang, Sơn Trà, Đà Nẵng",,,,,,,,,,,
+"Đường Tân Lưu, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng",42 triệu/m²,"269,3 m²",,,,,,11.8 m,,,
+"Dự án Dragon City Park, Đường Nguyễn Tất Thành, Liên Chiểu, Đà Nẵng","2,15 tỷ",100 m²,,,Đông - Nam,,,15.5 m,20.5 m,,
+"Phường Mỹ An, Ngũ Hành Sơn, Đà Nẵng",9 tỷ,90 m²,3 phòng,1 phòng,,,,4.5 m,7.5 m,,
+"Dự án Nam cầu Nguyễn Tri Phương, Đường Võ Chí Công, Phường Hòa Xuân, Cẩm Lệ, Đà Nẵng","3,2 tỷ",100 m²,,,Tây - Nam,,,5 m,7.5 m,Sổ Hồng,
+"Dự án The Sang Residence, Đường Phạm Kiệt, Phường Khuê Mỹ, Ngũ Hành Sơn, Đà Nẵng",53 triệu/m²,85 m²,2 phòng,3 phòng,Tây - Bắc,,,,,Sổ đỏ lâu dài.,
+"Đường Nguyễn Đóa, Phường Hòa Xuân, Cẩm Lệ, Đà Nẵng","3,35 tỷ",100 m²,3 phòng,2 phòng,Đông,Đông,2 tầng,5 m,7.5 m,Sổ đỏ/ Sổ hồng,Đầy đủ
+"Đường Tôn Đản, Phường Hòa Phát, Cẩm Lệ, Đà Nẵng","4,2 tỷ","81,5 m²",2 phòng,2 phòng,Đông,Đông,1 tầng,5 m,7.5 m,Sổ đỏ/ Sổ hồng,Đầy đủ
+"Dự án Dragon City Park, Liên Chiểu, Đà Nẵng",Thỏa thuận,150 m²,,,,,,,,,
+"Đường Nguyễn Quang Chung, Phường Hòa Xuân, Cẩm Lệ, Đà Nẵng","8,8 tỷ",300 m²,,,Tây - Bắc,,,12 m,7.5 m,Sổ đỏ/ Sổ hồng,
+"Dự án The Monarchy, Đường An Trung 2, Phường An Hải Tây, Sơn Trà, Đà Nẵng","5,5 tỷ",120 m²,3 phòng,2 phòng,Đông - Bắc,Tây - Nam,,,,Sổ đỏ/ Sổ hồng.,Đầy đủ.
+"Dự án The Monarchy, Đường An Trung 2, Phường An Hải Tây, Sơn Trà, Đà Nẵng","5,5 tỷ",120 m²,3 phòng,2 phòng,Đông - Bắc,Tây - Nam,,,,Sổ đỏ/ Sổ hồng.,Đầy đủ.
+"Dự án Sun Cosmo Residence, Đường Trần Thị Lý, Ngũ Hành Sơn, Đà Nẵng",60 triệu/m²,28 m²,1 phòng,1 phòng,,,,,,Sổ đỏ/ Sổ hồng,
+"Đường Nại Hiên Đông 18, Phường Nại Hiên Đông , Sơn Trà, Đà Nẵng",,,,,,,,,,,
+"Dự án The Filmore Da Nang, Đường Bạch Đằng, Phường Bình Thuận, Hải Châu, Đà Nẵng","7,5 tỷ",71 m²,2 phòng,2 phòng,,,,,,,Cơ bản
+"Đường Bùi Tá Hán, Phường Khuê Mỹ, Ngũ Hành Sơn, Đà Nẵng","16,5 tỷ",250 m²,,,,,,10 m,,,
+"Xã Hòa Liên, Hòa Vang, Đà Nẵng","1,36 tỷ",136 m²,,,Tây - Bắc,,,,5.5 m,Sổ đỏ/ Sổ hồng,
+"Dự án Lakeside Palace, Phường Hòa Hiệp Nam, Liên Chiểu, Đà Nẵng","1,85 tỷ",100 m²,,,,,,,,Sổ đỏ/ Sổ hồng,
+"Dự án Golden Hills City, Phường Hòa Hiệp Nam, Liên Chiểu, Đà Nẵng","1,85 tỷ",125 m²,,,,,,,7.5 m,Sổ đỏ/ Sổ hồng,
+"Đường Sơn Thủy Đông 4, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng","3,8 tỷ",100 m²,,,Nam,,,5 m,,,
+"Dự án The Sang Residence, Đường Phạm Kiệt, Phường Khuê Mỹ, Ngũ Hành Sơn, Đà Nẵng",50 triệu/m²,"106,7 m²",3 phòng,,Đông - Nam,Đông - Nam,,,,Sổ đỏ chính chủ,Cao cấp
+"Dự án The Sang Residence, Đường Phạm Kiệt, Phường Khuê Mỹ, Ngũ Hành Sơn, Đà Nẵng",Thỏa thuận,"105,5 m²",3 phòng,3 phòng,Đông - Nam,Đông,,,,Sổ đỏ chính chủ.,Nội thất liền tường.
+"Dự án FPT City Đà Nẵng, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng",Thỏa thuận,70 m²,2 phòng,2 phòng,Đông - Bắc,Đông - Bắc,,,,Sổ đỏ/ Sổ hồng.,Cơ bản.
+"Dự án The Sang Residence, Đường Phạm Kiệt, Phường Khuê Mỹ, Ngũ Hành Sơn, Đà Nẵng","5,43 tỷ","105,5 m²",3 phòng,2 phòng,,,,,,Sổ đỏ/ Sổ hồng,Đầy đủ
+"Dự án The Sang Residence, Đường Phạm Kiệt, Phường Khuê Mỹ, Ngũ Hành Sơn, Đà Nẵng","3,78 tỷ","82,5 m²",2 phòng,2 phòng,,,,,,Sổ đỏ/ Sổ hồng,Bàn giao nội thất liền tường cao cấp chuẩn 5 sao
+"Dự án Sun Cosmo Residence, Đường Trần Thị Lý, Ngũ Hành Sơn, Đà Nẵng.","1,8 tỷ",35 m²,,,Đông - Bắc,Đông - Bắc,,,,Sổ đỏ/ Sổ hồng,Không nội thất
+"Đường An Thượng 40, Phường Khuê Mỹ, Ngũ Hành Sơn, Đà Nẵng","7,9 tỷ",70 m²,,,Đông - Nam,,,5 m,5.5 m,Sổ đỏ/ Sổ hồng.,
+"Dự án Vinpearl Condotel Đà Nẵng, Đường Ngô Quyền, Phường An Hải Bắc, Sơn Trà, Đà Nẵng","1,4 tỷ",40 m²,1 phòng,1 phòng,,,,,,Hợp đồng mua bán,Cơ bản.
+"Dự án Vinpearl Condotel Đà Nẵng, Đường Ngô Quyền, Phường An Hải Bắc, Sơn Trà, Đà Nẵng","1,54 tỷ",50 m²,1 phòng,1 phòng,,,,,,Hợp đồng mua bán,Cơ bản
+"Đường An Thượng 29, Phường Mỹ An, Ngũ Hành Sơn, Đà Nẵng","8,3 tỷ","82,2 m²",,,Tây - Bắc,,,5 m,5.5 m,,
+"Đường Duy Tân, Phường Hòa Thuận Tây, Hải Châu, Đà Nẵng",,,,,,,,,,,
+"Dự án FPT City Đà Nẵng, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng","2,25 tỷ",150 m²,,,Nam,,,6 m,7.5 m,Sổ đỏ/ Sổ hồng.,
+"Đường Hồng Phước, Phường Hòa Khánh Bắc, Liên Chiểu, Đà Nẵng","2,65 tỷ",125 m²,,,,,,,,Sổ đỏ/ Sổ hồng,
+"Đường Phạm Viết Chánh, Phường Hòa Thọ Đông, Cẩm Lệ, Đà Nẵng",Thỏa thuận,"112,5 m²",,,Nam,,,5 m,7.5 m,Sổ đỏ/ Sổ hồng,
+"Đường Phạm Viết Chánh, Phường Hòa Thọ Đông, Cẩm Lệ, Đà Nẵng",7 tỷ,212 m²,,,,,,11 m,7.5 m,Sổ đỏ/ Sổ hồng,
+"Đường Phạm Viết Chánh, Phường Hòa Thọ Đông, Cẩm Lệ, Đà Nẵng",Thỏa thuận,210 m²,,,,,,,,,
+"Dự án FPT City Đà Nẵng, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng","1,25 tỷ","45,4 m²",1 phòng,,,,,,,Sổ đỏ/ Sổ hồng,Cơ bản
+"Dự án KĐT Vịnh Thuận Phước, Sơn Trà, Đà Nẵng","18,5 tỷ",756 m²,,,Tây - Bắc,,,15 m,7.5 m,Sổ đỏ/ Sổ hồng,
+"Đường Nguyễn Phan Vinh, Phường Mân Thái, Sơn Trà, Đà Nẵng","3,25 tỷ",86 m²,,,,,,,,Sổ đỏ/ Sổ hồng,
+"Phố Phùng Chí Kiên, Phường Hòa Minh, Liên Chiểu, Đà Nẵng","4,1 tỷ",75 m²,,,,,,,,,
+"Đường Cách Mạng Tháng Tám, Phường Khuê Trung, Cẩm Lệ, Đà Nẵng",45 tỷ,625 m²,,,,,,,,,
+"Dự án Lakeside Palace, Quận Liên Chiểu, Đà Nẵng","2,15 tỷ",115 m²,,,,,,,,,
+"Dự án FPT City Đà Nẵng, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng","1,25 tỷ","45,4 m²",1 phòng,,,,,,,Sổ đỏ/ Sổ hồng,Cơ bản
+"Dự án KĐT Vịnh Thuận Phước, Sơn Trà, Đà Nẵng","18,5 tỷ",756 m²,,,Tây - Bắc,,,15 m,7.5 m,Sổ đỏ/ Sổ hồng,
+"Đường Nguyễn Phan Vinh, Phường Mân Thái, Sơn Trà, Đà Nẵng","3,25 tỷ",86 m²,,,,,,,,Sổ đỏ/ Sổ hồng,
+"Phố Phùng Chí Kiên, Phường Hòa Minh, Liên Chiểu, Đà Nẵng","4,1 tỷ",75 m²,,,,,,,,,
+"Đường Cách Mạng Tháng Tám, Phường Khuê Trung, Cẩm Lệ, Đà Nẵng",45 tỷ,625 m²,,,,,,,,,
+"Dự án Lakeside Palace, Quận Liên Chiểu, Đà Nẵng","2,15 tỷ",115 m²,,,,,,,,,
+"Đường Phan Triêm, Phường Hòa Xuân, Cẩm Lệ, Đà Nẵng","2,82 tỷ",90 m²,,,Tây - Nam,,,,7.5 m,Sổ đỏ/ Sổ hồng,
+"Đường Võ Nguyên Giáp, Phường Thọ Quang, Sơn Trà, Đà Nẵng",43 tỷ,400 m²,,,,,,,,,
+"Đường Tân Thuận, Phường Phước Mỹ, Sơn Trà, Đà Nẵng",,,,,,,,,,,
+"Đường Hồ Hán Thương, Phường Nại Hiên Đông , Sơn Trà, Đà Nẵng",,,,,,,,,,,
+"Đường Hoàng Bích Sơn, Phường Phước Mỹ, Sơn Trà, Đà Nẵng",,,,,,,,,,,
+"Đường Dương Trí Trạch, Phường An Hải Bắc, Sơn Trà, Đà Nẵng","6,2 tỷ",65 m²,4 phòng,4 phòng,Đông,,3 tầng,5 m,5.5 m,Sổ đỏ,Đầy đủ.
+"Đường Lê Đình Lý, Phường Hòa Thuận Đông, Hải Châu, Đà Nẵng","2,52 tỷ",47 m²,2 phòng,2 phòng,,,2 tầng,8.15 m,,,
+"Đường Ngô Gia Tự, Phường Thạch Thang, Hải Châu, Đà Nẵng",Thỏa thuận,55 m²,,,Tây - Nam,,3 tầng,,,,
+"Đường Trưng Nữ Vương, Phường Bình Thuận, Hải Châu, Đà Nẵng","2,55 tỷ",40 m²,,,,,,,,,
+"Đường Hải Phòng, Phường Chính Gián, Thanh Khê, Đà Nẵng","5,5 tỷ",49 m²,4 phòng,3 phòng,,,3 tầng,4 m,10 m,Sổ đỏ/ Sổ hồng,Đầy đủ
+"Đường Hải Phòng, Phường Tân Chính, Thanh Khê, Đà Nẵng",3 tỷ,46 m²,3 phòng,3 phòng,Đông - Bắc,,3 tầng,3.5 m,3 m,Sổ đỏ/ Sổ hồng,Đầy đủ
+"Đường Nguyễn Thiện Kế, Phường An Hải Đông, Sơn Trà, Đà Nẵng","4,4 tỷ",84 m²,,,Đông,,,6 m,5.5 m,Sổ đỏ/ Sổ hồng.,
+"Dự án The Point, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng",Thỏa thuận,427 m²,,,,,2 tầng,15 m,20.5 m,,
+"Đường Trần Đình Tri, Phường Hòa Minh, Liên Chiểu, Đà Nẵng","3,55 tỷ",60 m²,,,,,,,,,
+"Đường Nguyễn Thiện Kế, Phường An Hải Đông, Sơn Trà, Đà Nẵng","4,4 tỷ",84 m²,,,Đông,,,6 m,5.5 m,Sổ đỏ/ Sổ hồng.,
+"Dự án The Point, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng",Thỏa thuận,427 m²,,,,,2 tầng,15 m,20.5 m,,
+"Đường Trần Đình Tri, Phường Hòa Minh, Liên Chiểu, Đà Nẵng","3,55 tỷ",60 m²,,,,,,,,,
+"Đường Thép Mới, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng","2,5 tỷ",100 m²,,,Bắc,,,5 m,7.5 m,Đã có sổ hồng.,
+"Đường An Đồn 5, Phường An Hải Bắc, Sơn Trà, Đà Nẵng","7,3 tỷ","91,6 m²",,,Nam,,,4.7 m,5.5 m,Sổ đỏ/ Sổ hồng.,
+"Dự án Nam cầu Nguyễn Tri Phương, Đường Bùi Trang Chước, Phường Hòa Xuân, Cẩm Lệ, Đà Nẵng","5,49 tỷ",100 m²,3 phòng,3 phòng,,,2 tầng,5 m,10.5 m,,
+"Dự án The Ocean Villas, Đường Trường Sa, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng","28,5 tỷ",610 m²,3 phòng,3 phòng,Tây - Bắc,Đông - Nam,,20 m,15 m,Sổ đỏ/ Sổ hồng,Đầy đủ
+"Dự án Premier Village, Đường Võ Nguyên Giáp, Phường Mỹ An, Ngũ Hành Sơn, Đà Nẵng.","31,5 tỷ",446 m²,3 phòng,4 phòng,,,3 tầng,12 m,,Sổ đỏ/ Sổ hồng.,Full nội thất 5 sao.
+"Dự án Golden Hills City, Phường Hòa Hiệp Nam, Liên Chiểu, Đà Nẵng","6,6 tỷ",120 m²,4 phòng,5 phòng,Nam,Nam,,6 m,15.5 m,Đang chờ sổ,
+"Dự án The Ocean Villas, Đường Trường Sa, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng","28,5 tỷ",600 m²,,,Nam,Nam,,10 m,7.5 m,Sổ đỏ/ Sổ hồng,
+"Dự án Phú Mỹ An, Đường Đào Duy Tùng, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng",31 triệu/m²,375 m²,,,Đông - Bắc,,,,,,
+"Dự án One River, Đường Song Hào, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng","20,5 tỷ",300 m²,5 phòng,,,,3 tầng,15 m,,Sổ đỏ/ Sổ hồng.,Đầy đủ.
+"Đường An Thượng 29, Phường Mỹ An, Ngũ Hành Sơn, Đà Nẵng",43 tỷ,162 m²,36 phòng,38 phòng,Bắc,Bắc,,9 m,5.5 m,Sổ đỏ/ Sổ hồng,Đầy đủ
+"Đường Mai Thúc Lân, Phường Mỹ An, Ngũ Hành Sơn, Đà Nẵng",40 tỷ,165 m²,17 phòng,20 phòng,Tây - Nam,,7 tầng,7.5 m,15 m,Sổ đỏ/ Sổ hồng,Đầy đủ
+"Đường An Thượng 33, Phường Mỹ An, Ngũ Hành Sơn, Đà Nẵng","9,5 tỷ",81 m²,,,Tây,,,4.5 m,5.5 m,Sổ đỏ/ Sổ hồng.,
+"Đường Trần Nhân Tông, Phường Thọ Quang, Sơn Trà, Đà Nẵng","5,3 tỷ",99 m²,4 phòng,4 phòng,Tây - Bắc,Tây - Bắc,3 tầng,5 m,10.5 m,Sổ đỏ/ Sổ hồng,Cao cấp
+"Đường Đỗ Bá, Phường Mỹ An, Ngũ Hành Sơn, Đà Nẵng","17,5 tỷ",90 m²,,,Nam,,,4.5 m,10.5 m,Sổ đỏ/ Sổ hồng.,
+"Đường Lê Quang Đạo, Phường Mỹ An, Ngũ Hành Sơn, Đà Nẵng.","10,7 tỷ","82,4 m²",,,Tây,,,4.5 m,7.5 m,Sổ đỏ/ Sổ hồng,
+"Dự án FPT City Đà Nẵng, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng","2,05 tỷ",78 m²,3 phòng,2 phòng,,,,,,Sổ đỏ/ Sổ hồng,Cơ bản
+"Dự án FPT City Đà Nẵng, Đường Võ Chí Công, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng","1,8 tỷ",68 m²,2 phòng,,Nam,Nam,,,,Sổ đỏ/ Sổ hồng,Cơ bản
+"Dự án FPT City Đà Nẵng, Đường Võ Chí Công, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng","1,8 tỷ",68 m²,2 phòng,,Nam,Nam,,,,Sổ đỏ/ Sổ hồng,Cơ bản
+"Dự án The Ori Garden, Đường Mê Linh, Phường Hòa Hiệp Nam, Liên Chiểu, Đà Nẵng",955 triệu,50 m²,1 phòng,1 phòng,,,,,,,
+"Dự án The Ori Garden, Đường Mê Linh, Phường Hòa Hiệp Nam, Liên Chiểu, Đà Nẵng","1,52 tỷ","74,9 m²",3 phòng,2 phòng,,Đông - Nam,,,,Đang chờ sổ,
+"Dự án Han River Village (Nam Hòa Xuân), Đường Minh Mạng, Phường Hòa Quý, Ngũ Hành Sơn, Đà Nẵng","13,5 tỷ",150 m²,5 phòng,5 phòng,Tây - Bắc,Đông - Bắc,4 tầng,7.5 m,25 m,Sổ đỏ/ Sổ hồng.,Hoàn thiện cơ bản.
+"Đường Đinh Thị Hòa, Phường An Hải Bắc, Sơn Trà, Đà Nẵng",23 tỷ,164 m²,9 phòng,10 phòng,Tây,,7 tầng,7.3 m,7.5 m,Sổ đỏ/ Sổ hồng,Đầy đủ
+"Đường An Hải Đông 1, Phường An Hải Đông, Sơn Trà, Đà Nẵng",26 tỷ,345 m²,20 phòng,20 phòng,Tây,,4 tầng,8 m,5.5 m,Sổ đỏ/ Sổ hồng,Đầy đủ
+"Dự án FPT City Đà Nẵng, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng",Thỏa thuận,78 m²,,,Đông - Nam,,,,,,
+"Đường Nam Kỳ Khởi Nghĩa, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng","1,75 tỷ",69 m²,2 phòng,2 phòng,,,,,,Sổ đỏ/ Sổ hồng,Đầy đủ
+"Đường ĐT 605, Xã Hòa Tiến, Hòa Vang, Đà Nẵng","2,2 tỷ",256 m²,2 phòng,2 phòng,,,1 tầng,,,Sổ đỏ/ Sổ hồng,Đầy đủ
+"Dự án FPT City Đà Nẵng, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng","1,58 tỷ",69 m²,2 phòng,2 phòng,,,,,,,
+"Đường Núi Thành, Phường Hòa Cường Bắc, Hải Châu, Đà Nẵng",12 tỷ,135 m²,2 phòng,2 phòng,Tây,Tây,2 tầng,5.4 m,10.5 m,Sổ đỏ/ Sổ hồng,Đầy đủ.
+"Đường Nguyễn Hữu Thọ, Phường Hòa Thuận Tây, Hải Châu, Đà Nẵng","8,8 tỷ",50 m²,5 phòng,5 phòng,Đông - Bắc,,5 tầng,4.5 m,45 m,Sổ đỏ/ Sổ hồng.,Đầy đủ.
+"Đường Nguyễn Lộ Trạch, Phường Hòa Cường Nam, Hải Châu, Đà Nẵng","8,5 tỷ",100 m²,4 phòng,3 phòng,Bắc,,3 tầng,5 m,7.5 m,Sổ đỏ/ Sổ hồng,Đầy đủ
+"Đường Nguyễn Trung Trực, Phường Nại Hiên Đông , Sơn Trà, Đà Nẵng","7,5 tỷ",100 m²,,,Đông,,,7 m,7.5 m,Sổ đỏ/ Sổ hồng,
+"Dự án The Sang Residence, Đường Phạm Kiệt, Phường Khuê Mỹ, Ngũ Hành Sơn, Đà Nẵng","3,7 tỷ",88 m²,2 phòng,2 phòng,Nam,Bắc,,,,Sổ đỏ/ Sổ hồng,Đầy đủ
+"Dự án Sun Cosmo Residence, Quận Ngũ Hành Sơn, Đà Nẵng",100 triệu/m²,140 m²,8 phòng,8 phòng,,,7 tầng,,,Sổ đỏ/ Sổ hồng,Đầy đủ
+"Dự án Hiyori Garden Tower, Đường Võ Văn Kiệt, Phường An Hải Đông, Sơn Trà, Đà Nẵng","3,9 tỷ",70 m²,2 phòng,2 phòng,,,,,,Sổ đỏ/ Sổ hồng,Đầy đủ
+"Dự án Indochina Riverside, Đường Bạch Đằng, Phường Bình Hiên, Hải Châu, Đà Nẵng","3,2 tỷ",65 m²,1 phòng,1 phòng,,,,,,Sổ đỏ/ Sổ hồng,Đầy đủ.
+"Dự án Vinpearl Condotel Đà Nẵng, Đường Ngô Quyền, Phường An Hải Bắc, Sơn Trà, Đà Nẵng","1,4 tỷ",48 m²,1 phòng,1 phòng,,,,,,Hợp đồng mua bán,
+"Đường Trần Bạch Đằng, Phường Mỹ An, Ngũ Hành Sơn, Đà Nẵng",45 tỷ,300 m²,,,,,,,,,
+"Đường Bạch Đằng, Phường Hải Châu I, Hải Châu, Đà Nẵng",75 tỷ,170 m²,,,,,2 tầng,,,,
+"Dự án The 6Nature Đà Nẵng, Đường Võ Nguyên Giáp, Phường Phước Mỹ, Sơn Trà, Đà Nẵng",Thỏa thuận,83 m²,2 phòng,2 phòng,Đông,Đông,,,,Sổ đỏ/ Sổ hồng,Cơ bản
+"Đường 30/4, Phường Hòa Cường Bắc, Hải Châu, Đà Nẵng",13 tỷ,160 m²,,,Bắc,,,5 m,22 m,,
+"Dự án FPT City Đà Nẵng, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng","2,8 tỷ",108 m²,,,Đông - Nam,,,6 m,,Sổ đỏ/ Sổ hồng,
+"Đường Nguyễn Tất Thành, Phường Thanh Khê Đông, Thanh Khê, Đà Nẵng",Thỏa thuận,250 m²,,,,,,,,Sổ đỏ/ Sổ hồng,
+"Phố Phan Văn Trường, Phường Hòa Khánh Bắc, Liên Chiểu, Đà Nẵng","3,7 tỷ",110 m²,3 phòng,2 phòng,Đông - Nam,,2 tầng,,5.5 m,Sổ đỏ/ Sổ hồng,Cơ bản
+"Đường Hồ Trung Lượng, Phường Hòa Xuân, Cẩm Lệ, Đà Nẵng",5 tỷ,100 m²,3 phòng,2 phòng,Đông - Bắc,,2 tầng,,7.5 m,Sổ đỏ/ Sổ hồng,Đầy đủ
+"Đường Nguyễn Đình Thi, Phường Hòa Xuân, Cẩm Lệ, Đà Nẵng",11 tỷ,250 m²,,,Đông - Nam,,,,7.5 m,Sổ đỏ/ Sổ hồng.,
+"Đường Kinh Dương Vương, Phường Hòa Minh, Liên Chiểu, Đà Nẵng",Thỏa thuận,75 m²,3 phòng,2 phòng,,,2 tầng,5 m,5.5 m,Sổ đỏ/ Sổ hồng,Cơ bản.
+"Đường Bình Minh 1, Phường Bình Hiên, Hải Châu, Đà Nẵng","9,2 tỷ",77 m²,,,,,,,,Sổ đỏ/ Sổ hồng,Đầy đủ
+"Đường Khuê Mỹ Đông 7, Phường Khuê Mỹ, Ngũ Hành Sơn, Đà Nẵng","5,95 tỷ",102 m²,,,Đông - Bắc,,,6 m,7.5 m,Sổ đỏ/ Sổ hồng.,
+"Dự án The Sang Residence, Đường Phạm Kiệt, Phường Khuê Mỹ, Ngũ Hành Sơn, Đà Nẵng",Thỏa thuận,"82,5 m²",2 phòng,2 phòng,,,,,,,
+"Kiệt 249 Đường Hà Huy Tập, Phường Hòa Khê, Thanh Khê, Đà Nẵng","2,35 tỷ",55 m²,,,Tây - Bắc,,,4 m,3 m,Sổ đỏ/ Sổ hồng,
+"Đường Dương Thị Xuân Quý, Phường Mỹ An, Ngũ Hành Sơn, Đà Nẵng",Thỏa thuận,98 m²,2 phòng,2 phòng,,,1 tầng,4 m,10.5 m,Sổ đỏ/ Sổ hồng,Cơ bản
+"Đường Hoài Thanh, Phường Mỹ An, Ngũ Hành Sơn, Đà Nẵng","5,6 tỷ",69 m²,5 phòng,6 phòng,Tây - Nam,,4 tầng,6 m,7.5 m,Sổ đỏ/ Sổ hồng,Đầy đủ.
+"Đường Hoài Thanh, Phường Mỹ An, Ngũ Hành Sơn, Đà Nẵng","5,6 tỷ",69 m²,5 phòng,6 phòng,Tây - Nam,,4 tầng,6 m,7.5 m,Sổ đỏ/ Sổ hồng,Đầy đủ.
+"Phố Phùng Chí Kiên, Phường Hòa Minh, Liên Chiểu, Đà Nẵng","3,8 tỷ",75 m²,3 phòng,2 phòng,Tây - Bắc,,2 tầng,5 m,5.5 m,Sổ đỏ/ Sổ hồng,Cơ bản.
+"Đường Mỹ Đa Đông 12, Phường Mỹ An, Ngũ Hành Sơn, Đà Nẵng",Thỏa thuận,108 m²,,,Tây - Nam,,,9 m,5.5 m,,
+"Đường Nguyễn Văn Thoại, Phường An Hải Bắc, Sơn Trà, Đà Nẵng","6,8 tỷ",100 m²,3 phòng,3 phòng,,,3 tầng,,6 m,Sổ đỏ/ Sổ hồng.,Đầy đủ.
+"Đường Điện Biên Phủ, Phường Chính Gián, Thanh Khê, Đà Nẵng",15 tỷ,123 m²,3 phòng,3 phòng,Nam,Nam,3 tầng,5 m,22 m,,
+"Đường 602, Xã Hòa Ninh, Hòa Vang, Đà Nẵng","6,5 tỷ",1.262 m²,,,Tây - Nam,,,40 m,5.5 m,Sổ đỏ/ Sổ hồng.,
+"Đường Trần Đình Nam, Phường Hòa An, Cẩm Lệ, Đà Nẵng",8 tỷ,200 m²,,,,,,10 m,25 m,Sổ đỏ/ Sổ hồng,
+"Dự án Nam Cầu Tuyên Sơn-Nam Việt Á, Đường Nguyễn Trọng Hợp, Phường Khuê Mỹ, Ngũ Hành Sơn, Đà Nẵng","2,95 tỷ",95 m²,,,,,,,,,
+"Dự án Nam Cầu Tuyên Sơn-Nam Việt Á, Đường Bùi Tá Hán, Phường Khuê Mỹ, Ngũ Hành Sơn, Đà Nẵng",Thỏa thuận,500 m²,,,,,,,15 m,,
+"Đường Hùng Vương, Phường Hải Châu I, Hải Châu, Đà Nẵng",Thỏa thuận,560 m²,,,,,,8.7 m,,,
+"Dự án Fusion Resort & Villas Da Nang, Đường Trường Sa, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng",Thỏa thuận,537 m²,1 phòng,,,,,,,,
+"Đường Hỏa Sơn 3, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng","2,55 tỷ",100 m²,,,Tây - Nam,,,5 m,5.5 m,Sổ đỏ/ Sổ hồng.,
+"Đường Đặng Huy Trứ, Phường Hòa Minh, Liên Chiểu, Đà Nẵng","3,65 tỷ","91,8 m²",,,Tây - Bắc,,,5 m,7.5 m,Sổ đỏ/ Sổ hồng,
+"Đường Trần Hữu Dực, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng","4,9 tỷ",100 m²,,,Nam,,,5 m,15.5 m,Sổ đỏ/ Sổ hồng,
+"Đường Phan Thị Nể, Phường Hòa Minh, Liên Chiểu, Đà Nẵng",,,,,,,,,,,
+"Đường Quán Khái 5, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng",,,,,,,,,,,
+"Đường Bàu Mạc 8, Phường Hòa Khánh Bắc, Liên Chiểu, Đà Nẵng",,,,,,,,,,,
+"Đường Hồ Trung Lượng, Phường Hòa Xuân, Cẩm Lệ, Đà Nẵng","7,2 tỷ","112,5 m²",9 phòng,7 phòng,Tây - Nam,Tây - Nam,5 tầng,5 m,7.5 m,Sổ đỏ/ Sổ hồng,
+"Đường Hồ Nghinh, Phường Phước Mỹ, Sơn Trà, Đà Nẵng",,,,,,,,,,,
+"Đường Việt Bắc, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng",3 tỷ,80 m²,,,Đông - Nam,,,5 m,7.5 m,Sổ đỏ/ Sổ hồng.,
+"Đường Hồ Trung Lượng, Phường Hòa Xuân, Cẩm Lệ, Đà Nẵng","7,2 tỷ","112,5 m²",9 phòng,7 phòng,Tây - Nam,Tây - Nam,5 tầng,5 m,7.5 m,Sổ đỏ/ Sổ hồng,
+"Đường Hồ Nghinh, Phường Phước Mỹ, Sơn Trà, Đà Nẵng",,,,,,,,,,,
+"Đường Việt Bắc, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng",3 tỷ,80 m²,,,Đông - Nam,,,5 m,7.5 m,Sổ đỏ/ Sổ hồng.,
+"Đường Đông Hải, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng","2,6 tỷ",100 m²,,,Bắc,,,5 m,5.5 m,Sổ đỏ/ Sổ hồng,
+"Đường Nguyễn Duy Trinh, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng.","2,25 tỷ","94,7 m²",,,Tây,,,6 m,4.5 m,Sổ đỏ/ Sổ hồng.,
+"Đường Thích Phước Huệ, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng","2,98 tỷ","132,5 m²",,,Bắc,,,5 m,7.5 m,Sổ đỏ/ Sổ hồng.,
+"Đường Nam Kỳ Khởi Nghĩa, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng",11 tỷ,240 m²,,,Bắc,,,12 m,40 m,Sổ đỏ/ Sổ hồng,
+"Đường Trà Khê 9, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng","2,39 tỷ",105 m²,,,Bắc,,,5 m,5.5 m,Sổ đỏ/ Sổ hồng.,
+"Đường Huỳnh Văn Nghệ, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng","4,35 tỷ",125 m²,,,Tây,,,5 m,10.5 m,Sổ đỏ/ Sổ hồng,
+"Đường Sơn Thủy 4, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng","2,95 tỷ",90 m²,,,Tây - Bắc,,,6 m,5.5 m,Sổ đỏ/ Sổ hồng,
+"Dự án FPT City Đà Nẵng, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng",Thỏa thuận,71 m²,2 phòng,,,,,,,Sổ đỏ/ Sổ hồng,Cơ bản
+"Dự án Phú Mỹ An, Đường Song Hào, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng",21 tỷ,345 m²,4 phòng,4 phòng,Đông,Đông,3 tầng,15 m,15.5 m,Sổ đỏ/ Sổ hồng,
+"Đường Sơn Thủy 3, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng","2,93 tỷ",94 m²,,,Đông,,,5 m,5.5 m,Sổ đỏ/ Sổ hồng.,
+"Đường Châu Thị Vĩnh Tế, Phường Mỹ An, Ngũ Hành Sơn, Đà Nẵng","13,5 tỷ","114,5 m²",5 phòng,4 phòng,Tây,Tây,3 tầng,5 m,7.5 m,Sổ đỏ/ Sổ hồng,Không nội thất.
+"Đường An Thượng 20, Phường Mỹ An, Ngũ Hành Sơn, Đà Nẵng","8,6 tỷ",105 m²,,,Tây - Bắc,,,5 m,5.5 m,Sổ đỏ/ Sổ hồng,
+"Phố Phùng Hưng, Phường Thanh Khê Tây, Thanh Khê, Đà Nẵng","5,5 tỷ",78 m²,,,Đông - Nam,,,6.5 m,10.5 m,,
+"Dự án Furama Villas, Đường Võ Nguyên Giáp, Phường Khuê Mỹ, Ngũ Hành Sơn, Đà Nẵng",25 tỷ,412 m²,4 phòng,4 phòng,Đông,Đông,3 tầng,15 m,5 m,Hợp đồng mua bán,Đầy đủ
+"Đường Trần Nhân Tông, Phường An Hải Bắc, Sơn Trà, Đà Nẵng",,,,,,,,,,,
+"Dự án Bluehouse, Sơn Trà, Đà Nẵng","1,18 tỷ",52 m²,2 phòng,1 phòng,,,,,,Sổ đỏ/ Sổ hồng,Cơ bản
+"Dự án FPT City Đà Nẵng, Đường Võ Qúy Huân, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng","1,8 tỷ",71 m²,2 phòng,,Đông,,,,,Sổ đỏ/ Sổ hồng.,Cơ bản
+"Đường Trưng Nữ Vương, Phường Hòa Thuận Đông, Hải Châu, Đà Nẵng",12 tỷ,"89,8 m²",3 phòng,,Bắc,,2 tầng,4.27 m,10.5 m,,
+"Đường Phạm Văn Đồng, Phường An Hải Bắc, Sơn Trà, Đà Nẵng",110 tỷ,777 m²,,,Bắc,,,24 m,30 m,Sổ đỏ/ Sổ hồng,
+"Đường Đống Đa, Phường Thanh Bình, Hải Châu, Đà Nẵng","33,5 tỷ","211,1 m²",,,Đông - Nam,,,8.83 m,15 m,Sổ đỏ/ Sổ hồng.,
+"Đường Sơn Thủy 3, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng","2,95 tỷ",94 m²,,,Đông,,,,,,
+"Kiệt 201, Đường Ngô Quyền, Phường Thọ Quang, Sơn Trà, Đà Nẵng","2,25 tỷ","67,4 m²",3 phòng,2 phòng,,,,,,,
+"Dự án FPT City Đà Nẵng, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng","1,8 tỷ",70 m²,2 phòng,2 phòng,,,,,,Đang chờ sổ,Cơ bản
+"Dự án Phú Mỹ An, Đường Vùng Trung 9, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng","2,45 tỷ",110 m²,,,Tây - Bắc,,,5 m,5 m,Sổ đỏ/ Sổ hồng.,
+"Đường Lê Văn Linh, Phường Khuê Trung, Cẩm Lệ, Đà Nẵng",,,,,,,,,,,
+"Đường An Thượng 29, Phường Mỹ An, Ngũ Hành Sơn, Đà Nẵng",65 tỷ,448 m²,6 phòng,6 phòng,Nam,Đông,3 tầng,20 m,7.5 m,Sổ đỏ/ Sổ hồng.,Đầy đủ
+"Đường Chính Hữu, Phường An Hải Bắc, Sơn Trà, Đà Nẵng","13,5 tỷ",148 m²,,,Đông,,,5.2 m,15 m,Sổ đỏ/ Sổ hồng,
+"Đường Lý Đạo Thành, Phường Mân Thái, Sơn Trà, Đà Nẵng","5,3 tỷ",100 m²,3 phòng,2 phòng,Tây,,2 tầng,5 m,7.5 m,Sổ đỏ/ Sổ hồng.,
+"Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng","1,7 tỷ",69 m²,,,,,,,,Sổ đỏ/ Sổ hồng,
+"Dự án FPT City Đà Nẵng, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng",Thỏa thuận,70 m²,2 phòng,2 phòng,Đông,Đông - Nam,,,,Sổ đỏ/ Sổ hồng,Đầy đủ
+"Dự án FPT City Đà Nẵng, Đường Võ Chí Công, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng","1,5 tỷ",58 m²,2 phòng,2 phòng,Đông,Đông,,,,Sổ đỏ/ Sổ hồng,
+"Premier Village, 99, Đường Võ Nguyên Giáp, Phường Mỹ An, Ngũ Hành Sơn, Đà Nẵng",47 tỷ,300 m²,,,,,,,,Sổ đỏ/ Sổ hồng,Đầy đủ
+"Đường Phạm Hùng, Xã Hòa Nhơn, Hòa Vang, Đà Nẵng",Thỏa thuận,"130,4 m²",,,,,,7 m,5.5 m,Sổ đỏ/ Sổ hồng,
+"Đường Lý Nhật Quang, Phường Nại Hiên Đông , Sơn Trà, Đà Nẵng","9,1 tỷ",221 m²,,,,,,,,Sổ đỏ/ Sổ hồng,
+"Dự án Nam cầu Nguyễn Tri Phương, Đường Võ Chí Công, Phường Hòa Xuân, Cẩm Lệ, Đà Nẵng","17,3 tỷ",252 m²,,,Đông - Bắc,,,15 m,35 m,Sổ đỏ/ Sổ hồng,
+"Đường Lý Tự Trọng, Phường Thạch Thang, Hải Châu, Đà Nẵng","12,85 tỷ",97 m²,3 phòng,4 phòng,,,3 tầng,,,,
+"Đường Đoàn Nhữ Hài, Phường Hòa Khê, Thanh Khê, Đà Nẵng",,,,,,,,,,,
+"Đường Nam Kỳ Khởi Nghĩa, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng",,,,,,,,,,,
+"Dự án Phú Mỹ An, Đường Trần Quốc Vượng, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng","4,15 tỷ","156,5 m²",,,Đông,,,5 m,7.5 m,Sổ đỏ/ Sổ hồng.,
+"Dự án Phú Mỹ An, Đường Vùng Trung 9, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng","2,45 tỷ",110 m²,,,Đông,,,5 m,5.5 m,Sổ đỏ/ Sổ hồng.,
+"Đường Hải Phòng, Phường Tân Chính, Thanh Khê, Đà Nẵng",37 tỷ,214 m²,,,,,,,,,
+"Dự án One River, Đường Song Hào, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng",23 tỷ,300 m²,6 phòng,6 phòng,,,3 tầng,15 m,10 m,Sổ đỏ/ Sổ hồng,
+"Dự án Phú Mỹ An, Đường Vùng Trung 9, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng","2,45 tỷ",110 m²,,,Tây,,,5 m,5.5 m,Sổ hồng đầy đủ.,
+"Dự án FPT City Đà Nẵng, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng",,,,,,,,,,,
+"Dự án Sun Cosmo Residence, Đường Trần Thị Lý, Phường Khuê Mỹ, Ngũ Hành Sơn, Đà Nẵng",Thỏa thuận,100 m²,,,,,,,,,
+"Đường Lương Hữu Khánh, Phường Thọ Quang, Sơn Trà, Đà Nẵng",43 tỷ,400 m²,11 phòng,,,,,,,,
+"Đường Điện Biên Phủ, Phường Chính Gián, Thanh Khê, Đà Nẵng",50 tỷ,300 m²,,,,,,,,,
+"Đường Núi Thành, Phường Hòa Thuận Đông, Hải Châu, Đà Nẵng",28 tỷ,160 m²,,,,,,,,,
+"Dự án Phú Mỹ An, Đường Vùng Trung 9, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng","2,45 tỷ",110 m²,,,Tây,,,5 m,5.5 m,Sổ hồng đầy đủ.,
+"Dự án FPT City Đà Nẵng, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng",,,,,,,,,,,
+"Dự án Sun Cosmo Residence, Đường Trần Thị Lý, Phường Khuê Mỹ, Ngũ Hành Sơn, Đà Nẵng",Thỏa thuận,100 m²,,,,,,,,,
+"Đường Lương Hữu Khánh, Phường Thọ Quang, Sơn Trà, Đà Nẵng",43 tỷ,400 m²,11 phòng,,,,,,,,
+"Đường Điện Biên Phủ, Phường Chính Gián, Thanh Khê, Đà Nẵng",50 tỷ,300 m²,,,,,,,,,
+"Đường Núi Thành, Phường Hòa Thuận Đông, Hải Châu, Đà Nẵng",28 tỷ,160 m²,,,,,,,,,
+"Đường Lê Trí Viễn, Phường Hòa Quý, Ngũ Hành Sơn, Đà Nẵng","2,85 tỷ",100 m²,,,Đông - Nam,,,5 m,10.5 m,Sổ đỏ/ Sổ hồng.,
+"Phố Lê Thanh Nghị, Phường Hòa Cường Bắc, Hải Châu, Đà Nẵng",26 tỷ,205 m²,6 phòng,22 phòng,,,,,,Sổ đỏ/ Sổ hồng,Đầy đủ
+"Xã Hòa Phước, Hòa Vang, Đà Nẵng","1,65 tỷ",135 m²,,,Đông,,,,,,
+"Dự án FPT City Đà Nẵng, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng",32 triệu/m²,1.145 m²,,,,,,,,Pháp lý: Công chứng nhận luôn sổ hồng lâu dài.,
+"Đường Hoà Minh 16, Phường Hòa Minh, Liên Chiểu, Đà Nẵng","2,75 tỷ","82,5 m²",,,Đông - Nam,,,,,Sổ đỏ/ Sổ hồng,
+"Đường Trường Sa, Phường An Hải Tây, Sơn Trà, Đà Nẵng","3,5 tỷ",48 m²,2 phòng,2 phòng,,,,,,Sổ đỏ/ Sổ hồng.,Đầy đủ.
+"Đường Hoàng Diệu, Phường Phước Ninh, Hải Châu, Đà Nẵng",47 tỷ,241 m²,,,,,,,,,
+"Đường Nguyễn Tường Phổ, Phường Hòa Minh, Liên Chiểu, Đà Nẵng","5,69 tỷ",133 m²,,,Bắc,,,5 m,15 m,Sổ đỏ/ Sổ hồng,
+"Đường Xô Viết Nghệ Tĩnh, Phường Hòa Cường Nam, Hải Châu, Đà Nẵng",24 tỷ,190 m²,,,,,,,,,
+"Đường Nguyễn Lộ Trạch, Phường Hòa Cường Nam, Hải Châu, Đà Nẵng","8,5 tỷ",100 m²,4 phòng,,Bắc,,,,,,
+"Đường Lê Cảnh Tuân, Phường Nại Hiên Đông , Sơn Trà, Đà Nẵng","4,3 tỷ",86 m²,3 phòng,3 phòng,Đông - Nam,,2 tầng,,,,
+"Đường Nguyễn Tất Thành, Phường Thanh Bình, Hải Châu, Đà Nẵng","10,9 tỷ",125 m²,,,,,,,,,
+"Đường Lương Hữu Khánh, Phường Thọ Quang, Sơn Trà, Đà Nẵng",43 tỷ,400 m²,11 phòng,,,,,,,,
+"Đường Hà Huy Tập, Phường Hòa Khê, Thanh Khê, Đà Nẵng",25 tỷ,"310,98 m²",,,,,,,,,
+"Đường Nguyễn Tất Thành, Phường Thanh Bình, Hải Châu, Đà Nẵng","10,9 tỷ",125 m²,,,,,,,,,
+"Đường Lương Hữu Khánh, Phường Thọ Quang, Sơn Trà, Đà Nẵng",43 tỷ,400 m²,11 phòng,,,,,,,,
+"Đường Hà Huy Tập, Phường Hòa Khê, Thanh Khê, Đà Nẵng",25 tỷ,"310,98 m²",,,,,,,,,
+"Đường Nguyễn Văn Siêu, Phường An Hải Tây, Sơn Trà, Đà Nẵng","7,6 tỷ","76,5 m²",4 phòng,2 phòng,,,2 tầng,,,Sổ đỏ/ Sổ hồng,
+"Đường Chương Dương, Phường Mỹ An, Ngũ Hành Sơn, Đà Nẵng",11 tỷ,110 m²,14 phòng,,,,8 tầng,,,Sổ đỏ/ Sổ hồng,Đầy đủ
+"Đường Lê Trọng Tấn, Phường Hòa Phát, Cẩm Lệ, Đà Nẵng",Thỏa thuận,125 m²,1 phòng,1 phòng,Đông - Bắc,Bắc,1 tầng,6 m,10.6 m,Sổ đỏ/ Sổ hồng,Cơ bản
+"Dự án Han River Village (Nam Hòa Xuân), Đường Minh Mạng, Phường Hòa Quý, Ngũ Hành Sơn, Đà Nẵng.","2,67 tỷ",110 m²,,,Đông - Nam,,,,,Sổ đỏ/ Sổ hồng.,
+"Đường An Thượng 15, Phường Mỹ An, Ngũ Hành Sơn, Đà Nẵng","4,3 tỷ",60 m²,,,,,,4 m,,Sổ đỏ/ Sổ hồng,
+"Dự án KĐT Hòa Xuân mở rộng, Phường Hòa Xuân, Cẩm Lệ, Đà Nẵng",,,,,,,,,,,
+"Dự án FPT City Đà Nẵng, Đường Võ Qúy Huân, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng","1,85 tỷ",75 m²,2 phòng,,Đông - Nam,,,,,Sổ đỏ/ Sổ hồng.,Cơ bản.
+"Đường Lý Tự Trọng, Phường Thạch Thang, Hải Châu, Đà Nẵng","12,85 tỷ",98 m²,4 phòng,4 phòng,,,3 tầng,5.1 m,10.5 m,Sổ đỏ/ Sổ hồng,Đầy đủ
+"Đường Nguyễn Hoàng, Phường Nam Dương, Hải Châu, Đà Nẵng",Thỏa thuận,89 m²,6 phòng,3 phòng,,,3 tầng,8 m,,,
+"Đường Nguyễn Khắc Viện, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng","13,5 tỷ","157,5 m²",,,,,,,,,
+"Dự án Khu đô thị Saphia, Đường Nguyễn Khắc Viện, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng","13,5 tỷ","157,5 m²",,,Tây - Bắc,,,7 m,15 m,Sổ đỏ/ Sổ hồng,
+"Đường Võ Nguyên Giáp, Phường Phước Mỹ, Sơn Trà, Đà Nẵng",450 tỷ,600 m²,126 phòng,,,,20 tầng,,,,
+"Đường An Thượng 2, Phường Mỹ An, Ngũ Hành Sơn, Đà Nẵng",18 tỷ,90 m²,,,,,,,,,
+"Đường 2/9, Phường Bình Hiên, Hải Châu, Đà Nẵng","19,7 tỷ",90 m²,,,,Đông,,,,,
+"Đường Hồ Nghinh, Phường Phước Mỹ, Sơn Trà, Đà Nẵng",45 tỷ,300 m²,,,,,,,,,
+"Đường 2/9, Phường Bình Hiên, Hải Châu, Đà Nẵng","26,7 tỷ",90 m²,,,,,,,,,
+"Đường Điện Biên Phủ, Phường Chính Gián, Thanh Khê, Đà Nẵng",46 tỷ,365 m²,,,,,,,,,
+"Đường Điện Biên Phủ, Phường Chính Gián, Thanh Khê, Đà Nẵng",46 tỷ,365 m²,,,,,,,,,
+"Đường Điện Biên Phủ, Phường Chính Gián, Thanh Khê, Đà Nẵng",24 tỷ,310 m²,,,,,,,,,
+"Dự án Nam Cầu Tuyên Sơn-Nam Việt Á, Đường Lê Hữu Khánh, Phường Khuê Mỹ, Ngũ Hành Sơn, Đà Nẵng",13 tỷ,200 m²,,,,,3 tầng,10 m,,,
+"Đường Chế Lan Viên, Phường Mỹ An, Ngũ Hành Sơn, Đà Nẵng","18,5 tỷ",414 m²,,,,,,,,,
+"Đường Chế Lan Viên, Phường Mỹ An, Ngũ Hành Sơn, Đà Nẵng","15,5 tỷ",330 m²,,,,,,,,,
+"Phố Bà Huyện Thanh Quan, Phường Mỹ An, Ngũ Hành Sơn, Đà Nẵng","18,5 tỷ",414 m²,,,,,,,,,
+"Đường Nguyễn Hữu Thọ, Phường Hòa Thuận Tây, Hải Châu, Đà Nẵng","12,95 tỷ","85,1 m²",,,,,3 tầng,,,,
+"Đường Dương Đình Nghệ, Phường Phước Mỹ, Sơn Trà, Đà Nẵng","54,75 tỷ",180 m²,47 phòng,,,,11 tầng,,,,
+"Đường 2/9, Phường Bình Hiên, Hải Châu, Đà Nẵng","19,7 tỷ",90 m²,,,,,,,,,
+"Đường 2/9, Phường Bình Hiên, Hải Châu, Đà Nẵng",40 tỷ,180 m²,,,Đông,Đông,,9 m,,,
+"Dự án The Filmore Da Nang, Đường Bạch Đằng, Phường Bình Thuận, Hải Châu, Đà Nẵng","5,4 tỷ",51 m²,1 phòng,1 phòng,,,,,,Sổ đỏ/ Sổ hồng.,
+"Dự án Euro Village 2, Đường Nguyễn Văn Thông, Phường Hòa Xuân, Cẩm Lệ, Đà Nẵng",28 triệu/m²,427 m²,3 phòng,,Nam,Nam,,15 m,20.5 m,Sổ đỏ/ Sổ hồng,Đầy đủ
+"Dự án Regal Pavillon Đà Nẵng, Đường Nguyễn Lộ Trạch, Phường Hòa Cường Nam, Hải Châu, Đà Nẵng",,,,,,,,,,,
+"Đường Phạm Văn Đồng, Phường Hải Châu II, Hải Châu, Đà Nẵng",50 tỷ,210 m²,56 phòng,56 phòng,Nam,Nam,11 tầng,10 m,40 m,Sổ đỏ/ Sổ hồng,Đầy đủ
+"Dự án The Filmore Da Nang, Đường Bạch Đằng, Phường Bình Thuận, Hải Châu, Đà Nẵng","5,2 tỷ",60 m²,1 phòng,1 phòng,Đông,Đông,,,,Đang chờ sổ.,Đầy đủ.
+"Dự án Fusion Resort & Villas Da Nang, Đường Trường Sa, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng",31 tỷ,484 m²,2 phòng,2 phòng,Đông,Đông,1 tầng,10 m,15 m,Sổ đỏ/ Sổ hồng,Đầy đủ
+"276/37 Đường Hải Phòng, Phường Tam Thuận, Thanh Khê, Đà Nẵng","1,55 tỷ",21 m²,2 phòng,1 phòng,Đông,Đông,2 tầng,,5 m,Sổ đỏ/ Sổ hồng.,Cơ bản.
+"Đường Trần Thủ Độ, Phường Khuê Trung, Cẩm Lệ, Đà Nẵng","8,5 tỷ",104 m²,15 phòng,15 phòng,,,4 tầng,5 m,10.5 m,,
+"Dự án One River, Đường Song Hào, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng",,,,,,,,,,,
+"Đường Lê Mạnh Trinh, Phường Phước Mỹ, Sơn Trà, Đà Nẵng",,,,,,,,,,,
+"Dự án Regal Pavillon Đà Nẵng, Đường Thăng Long, Phường Hòa Cường Nam, Hải Châu, Đà Nẵng",Thỏa thuận,120 m²,6 phòng,4 phòng,Đông - Bắc,,4 tầng,6 m,15 m,Sổ đỏ/ Sổ hồng,Cơ bản
+"Dự án The Sang Residence, Đường Phạm Kiệt, Phường Khuê Mỹ, Ngũ Hành Sơn, Đà Nẵng",Thỏa thuận,82 m²,,,,,,,,Sổ đỏ/ Sổ hồng.,
+"Dự án FPT City Đà Nẵng, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng",Thỏa thuận,71 m²,2 phòng,2 phòng,Đông,,,,,,Cơ bản
+"Dự án FPT City Đà Nẵng, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng","1,8 tỷ",72 m²,2 phòng,2 phòng,,,,,,Sổ đỏ/ Sổ hồng,Đầy đủ
+"Dự án The Sang Residence, Đường Phạm Kiệt, Phường Khuê Mỹ, Ngũ Hành Sơn, Đà Nẵng",Thỏa thuận,"82,5 m²",2 phòng,2 phòng,,,,,,Sổ đỏ/ Sổ hồng,
+"Dự án One River, Đường Song Hào, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng",24 tỷ,300 m²,5 phòng,6 phòng,,,3 tầng,25 m,36 m,"Đã có sổ đỏ, sở hữu vĩnh viễn.",
+"Dự án Marina Complex, Đường Lê Văn Duyệt, Phường Nại Hiên Đông , Sơn Trà, Đà Nẵng",Thỏa thuận,120 m²,,,,,,,,Sổ đỏ/ Sổ hồng,Đầy đủ
+"Đường Nguyễn Đức Trung, Phường Xuân Hà, Thanh Khê, Đà Nẵng","19,7 tỷ",133 m²,4 phòng,5 phòng,,,3 tầng,10 m,,,
+"Đường Lý Tự Trọng, Phường Thanh Bình, Hải Châu, Đà Nẵng",13 tỷ,"85,6 m²",,,,,,,,,
+"Đường Tiểu La, Phường Hòa Cường Bắc, Hải Châu, Đà Nẵng","8,5 tỷ",52 m²,4 phòng,4 phòng,,,4 tầng,,,,
+"Dự án FPT City Đà Nẵng, Đường Võ Qúy Huân, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng",20 triệu/m²,75 m²,3 phòng,2 phòng,,Đông,,,,Sổ đỏ/ Sổ hồng,Đầy đủ
+"Đường Nại Hiên Đông 11, Phường Nại Hiên Đông , Sơn Trà, Đà Nẵng","3,9 tỷ",118 m²,,,,,,5 m,5.5 m,,
+"Dự án Regal Pavillon Đà Nẵng, Đường Nguyễn Lộ Trạch, Phường Hòa Cường Nam, Hải Châu, Đà Nẵng",,,,,,,,,,,
+"Dự án FPT City Đà Nẵng, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng",Thỏa thuận,71 m²,2 phòng,2 phòng,Đông,,,,,,Cơ bản
+"Dự án FPT City Đà Nẵng, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng","1,8 tỷ",72 m²,2 phòng,2 phòng,,,,,,Sổ đỏ/ Sổ hồng,Đầy đủ
+"Dự án The Sang Residence, Đường Phạm Kiệt, Phường Khuê Mỹ, Ngũ Hành Sơn, Đà Nẵng",Thỏa thuận,"82,5 m²",2 phòng,2 phòng,,,,,,Sổ đỏ/ Sổ hồng,
+"Dự án One River, Đường Song Hào, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng",24 tỷ,300 m²,5 phòng,6 phòng,,,3 tầng,25 m,36 m,"Đã có sổ đỏ, sở hữu vĩnh viễn.",
+"Dự án Marina Complex, Đường Lê Văn Duyệt, Phường Nại Hiên Đông , Sơn Trà, Đà Nẵng",Thỏa thuận,120 m²,,,,,,,,Sổ đỏ/ Sổ hồng,Đầy đủ
+"Đường Nguyễn Đức Trung, Phường Xuân Hà, Thanh Khê, Đà Nẵng","19,7 tỷ",133 m²,4 phòng,5 phòng,,,3 tầng,10 m,,,
+"Đường Lý Tự Trọng, Phường Thanh Bình, Hải Châu, Đà Nẵng",13 tỷ,"85,6 m²",,,,,,,,,
+"Đường Tiểu La, Phường Hòa Cường Bắc, Hải Châu, Đà Nẵng","8,5 tỷ",52 m²,4 phòng,4 phòng,,,4 tầng,,,,
+"Dự án FPT City Đà Nẵng, Đường Võ Qúy Huân, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng",20 triệu/m²,75 m²,3 phòng,2 phòng,,Đông,,,,Sổ đỏ/ Sổ hồng,Đầy đủ
+"Đường Nại Hiên Đông 11, Phường Nại Hiên Đông , Sơn Trà, Đà Nẵng","3,9 tỷ",118 m²,,,,,,5 m,5.5 m,,
+"Dự án Regal Pavillon Đà Nẵng, Đường Nguyễn Lộ Trạch, Phường Hòa Cường Nam, Hải Châu, Đà Nẵng",,,,,,,,,,,
+"Dự án Regal Pavillon Đà Nẵng, Phường Hòa Cường Nam, Hải Châu, Đà Nẵng",,,,,,,,,,,
+"Dự án FPT City Đà Nẵng, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng","1,7 tỷ",68 m²,2 phòng,2 phòng,,,,,,Sổ đỏ/ Sổ hồng,Đầy đủ
+"Dự án Vinpearl Premium Đà Nẵng, Đường Trường Sa, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng",30 triệu/m²,427 m²,3 phòng,3 phòng,Nam,Bắc,2 tầng,15 m,20.5 m,Sổ đỏ/ Sổ hồng,Đầy đủ
+"Dự án FPT City Đà Nẵng, Đường Võ Chí Công, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng","26,5 triệu/m²","70,25 m²",2 phòng,2 phòng,Đông - Bắc,Đông - Nam,,,,Sổ đỏ/ Sổ hồng,Cơ bản
+"Dự án The Ocean Villas, Đường Trường Sa, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng",Thỏa thuận,427 m²,3 phòng,3 phòng,Nam,Nam,2 tầng,15 m,15 m,Sổ đỏ/ Sổ hồng,Đầy đủ
+"Dự án The Ori Garden, Đường Mê Linh, Phường Hòa Hiệp Nam, Liên Chiểu, Đà Nẵng","1,15 tỷ","57,9 m²",2 phòng,2 phòng,,,,,,Sổ đỏ/ Sổ hồng,
+"Dự án FPT City Đà Nẵng, Đường Võ Qúy Huân, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng","26,5 triệu/m²",75 m²,2 phòng,2 phòng,Đông - Nam,Tây - Bắc,,,,Sổ đỏ/ Sổ hồng,Cơ bản
+"Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng","1,89 tỷ",74 m²,2 phòng,,,,,,,Sổ đỏ/ Sổ hồng,
+"Đường Hồ Sĩ Tân, Phường Nại Hiên Đông , Sơn Trà, Đà Nẵng","8,4 tỷ","231,5 m²",,,Đông - Nam,,,9.5 m,7.5 m,,
+"Dự án FPT City Đà Nẵng, Đường Võ Qúy Huân, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng","26,5 triệu/m²",75 m²,2 phòng,2 phòng,Đông - Nam,Tây - Bắc,,,,Sổ đỏ/ Sổ hồng,Cơ bản
+"Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng","1,89 tỷ",74 m²,2 phòng,,,,,,,Sổ đỏ/ Sổ hồng,
+"Đường Hồ Sĩ Tân, Phường Nại Hiên Đông , Sơn Trà, Đà Nẵng","8,4 tỷ","231,5 m²",,,Đông - Nam,,,9.5 m,7.5 m,,
+"Dự án Regal Pavillon Đà Nẵng, Đường Hóa Sơn 10, Phường Hòa Cường Nam, Hải Châu, Đà Nẵng","13,5 tỷ",120 m²,5 phòng,4 phòng,Đông - Nam,,4 tầng,7.5 m,,Sổ đỏ/ Sổ hồng,Không nội thất
+"Đường La Hối, Phường Hòa Xuân, Cẩm Lệ, Đà Nẵng","7,5 tỷ",206 m²,,,Đông - Nam,,,10 m,7 m,Sổ đỏ/ Sổ hồng,
+"Đường Thanh Lương 2, Phường Hòa Xuân, Cẩm Lệ, Đà Nẵng","3,2 tỷ",100 m²,,,Đông - Nam,,,5 m,7.5 m,Sổ hồng chính chủ,
+"Đường DH409, Xã Hòa Tiến, Hòa Vang, Đà Nẵng",750 triệu,115 m²,2 phòng,1 phòng,,,1 tầng,,,Sổ đỏ/ Sổ hồng,
+"Dự án Lakeside Palace, Phường Hòa Hiệp Nam, Liên Chiểu, Đà Nẵng","3,95 tỷ",125 m²,3 phòng,3 phòng,Đông - Bắc,Đông - Bắc,3 tầng,5 m,15 m,Sổ đỏ/ Sổ hồng,Không nội thất
+"Đường La Hối, Phường Hòa Xuân, Cẩm Lệ, Đà Nẵng","7,5 tỷ",207 m²,,,Đông - Nam,,,,,Sổ đỏ/ Sổ hồng.,
+"Dự án Nam Cầu Tuyên Sơn-Nam Việt Á, Đường Nguyễn Lữ, Phường Khuê Mỹ, Ngũ Hành Sơn, Đà Nẵng",29 tỷ,270 m²,5 phòng,6 phòng,,,3 tầng,15 m,,Sổ đỏ/ Sổ hồng,Đầy đủ.
+"Dự án The Ocean Villas, Đường Trường Sa, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng","13,5 tỷ",427 m²,3 phòng,4 phòng,,,3 tầng,15 m,20 m,Sổ đỏ/ Sổ hồng,
+"Đường Điện Biên Phủ, Phường Thanh Khê Đông, Thanh Khê, Đà Nẵng","5,85 tỷ",123 m²,,,,,4 tầng,,,,
+"Đường Nguyễn Đình Tựu, Phường An Khê, Thanh Khê, Đà Nẵng",22 tỷ,270 m²,,,,,6 tầng,15 m,10.5 m,,
+"Đường Lý Đạo Thành, Phường Mân Thái, Sơn Trà, Đà Nẵng","5,3 tỷ",100 m²,3 phòng,3 phòng,,,2 tầng,5 m,7.5 m,Sổ đỏ/ Sổ hồng,Cơ bản
+"Dự án FPT City Đà Nẵng, Đường Võ Chí Công, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng","1,1 tỷ",71 m²,2 phòng,2 phòng,,,,,,,Cơ bản
+"Đường Điện Biên Phủ, Phường Thanh Khê Đông, Thanh Khê, Đà Nẵng","5,85 tỷ",123 m²,,,Đông - Bắc,,,,,,
+"Dự án FPT City Đà Nẵng, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng",Thỏa thuận,78 m²,2 phòng,2 phòng,Đông - Nam,Đông - Nam,,,,Sổ đỏ/ Sổ hồng,Đầy đủ
+"Dự án One River, Đường Song Hào, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng",Thỏa thuận,427 m²,3 phòng,3 phòng,Đông,,2 tầng,,,Sổ đỏ/ Sổ hồng,
+"Dự án Nam Cầu Tuyên Sơn-Nam Việt Á, Phố Mạc Thiên Tích, Phường Khuê Mỹ, Ngũ Hành Sơn, Đà Nẵng","5,6 tỷ",100 m²,3 phòng,2 phòng,Tây - Bắc,Tây - Bắc,2 tầng,5 m,7.5 m,Sổ đỏ/ Sổ hồng.,
+"Dự án Sunneva Island, Đường Minh Mạng, Phường Hòa Quý, Ngũ Hành Sơn, Đà Nẵng",42 tỷ,246 m²,,,,,,,,Sổ đỏ/ Sổ hồng,
+"Dự án Nam Cầu Tuyên Sơn-Nam Việt Á, Đường Xuân Quỳnh, Phường Khuê Mỹ, Ngũ Hành Sơn, Đà Nẵng","9,2 tỷ",182 m²,,,Tây - Bắc,,,10 m,15 m,Sổ đỏ/ Sổ hồng.,
+"Đường Nguyễn Sáng, Phường Mân Thái, Sơn Trà, Đà Nẵng","16,5 tỷ","196,2 m²",,,Đông,,,9 m,11 m,Sổ đỏ/ Sổ hồng.,
+"Dự án Nam Cầu Tuyên Sơn-Nam Việt Á, Đường Lê Hy Cát, Phường Khuê Mỹ, Ngũ Hành Sơn, Đà Nẵng","8,4 tỷ",200 m²,,,Đông - Nam,,,10 m,7.5 m,Sổ đỏ/ Sổ hồng.,
+"Dự án Nam Cầu Tuyên Sơn-Nam Việt Á, Đường Nước Mặn 1, Phường Khuê Mỹ, Ngũ Hành Sơn, Đà Nẵng","7,4 tỷ","182,5 m²",,,Đông - Nam,,,10 m,7.5 m,Sổ đỏ/ Sổ hồng,
+"Dự án Nam Cầu Tuyên Sơn-Nam Việt Á, Đường Dương Tử Giang, Phường Khuê Mỹ, Ngũ Hành Sơn, Đà Nẵng",7 tỷ,90 m²,6 phòng,5 phòng,Đông - Bắc,Đông - Bắc,4 tầng,,7.5 m,Sổ đỏ/ Sổ hồng,Full nội thất
+"Đường Tiểu La, Phường Hòa Cường Bắc, Hải Châu, Đà Nẵng","2,95 tỷ",67 m²,,,,,,,,Đã có sổ,
+"Đường Bình An 7, Phường Hòa Cường Bắc, Hải Châu, Đà Nẵng","1,89 tỷ",40 m²,2 phòng,2 phòng,,,1 tầng,2.5 m,2.5 m,Sổ đỏ/ Sổ hồng.,Đầy đủ.
+"Đường Trần Huy Liệu, Phường Khuê Trung, Cẩm Lệ, Đà Nẵng","4,8 tỷ",68 m²,3 phòng,3 phòng,Đông,,3 tầng,,,,
+"Dự án KĐT Hòa Xuân mở rộng, Đường Võ Chí Công, Phường Hòa Xuân, Cẩm Lệ, Đà Nẵng","7,5 tỷ",200 m²,,,,,,10 m,7.5 m,,
+"Đường 2/9, Phường Bình Hiên, Hải Châu, Đà Nẵng","19,7 tỷ",90 m²,,,,,,,,,
+"Đường Nguyễn Thành Hãn, Phường Hòa Thuận Tây, Hải Châu, Đà Nẵng","2,5 tỷ",60 m²,2 phòng,1 phòng,Tây - Bắc,,1 tầng,4.5 m,2.5 m,Sổ đỏ/ Sổ hồng,Đầy đủ
+"Đường Số 5, Phường Hòa Khánh Bắc, Liên Chiểu, Đà Nẵng",25 tỷ,8.000 m²,,,Đông - Nam,,,100 m,,Sổ đỏ/ Sổ hồng.,Có sẵn nhà xưởng tiền chế
+"Dự án FPT City Đà Nẵng, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng","2,4 tỷ",96 m²,,,Tây - Bắc,,,6 m,7.5 m,Sổ đỏ/ Sổ hồng.,
+"Đường Trung Lương 8, Phường Hòa Xuân, Cẩm Lệ, Đà Nẵng",Thỏa thuận,750 m²,,,Tây - Nam,,,30 m,7.5 m,Sổ hồng chính chủ.,
+"Đường An Nông, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng","1,76 tỷ",72 m²,2 phòng,2 phòng,,,,,,Sổ đỏ/ Sổ hồng,Đầy đủ
+"Dự án FPT City Đà Nẵng, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng",Thỏa thuận,75 m²,2 phòng,2 phòng,Đông - Nam,,,,,Sổ đỏ/ Sổ hồng,
+"Đường Lê Trọng Tấn, Phường Hòa Phát, Cẩm Lệ, Đà Nẵng",Thỏa thuận,117 m²,,,,,,,,,
+"Đường Nguyễn Trực, Phường Thọ Quang, Sơn Trà, Đà Nẵng","6,2 tỷ",90 m²,,,,,,,,,
+"Đường Hoà An 25, Phường Hòa An, Cẩm Lệ, Đà Nẵng","3,25 tỷ","111,2 m²",,,,,,,,,
+"Dự án FPT City Đà Nẵng, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng",Thỏa thuận,75 m²,2 phòng,,,,,,,Sổ đỏ/ Sổ hồng,Cơ bản
+"Kiệt 717 Ngô Quyền, Phường An Hải Bắc, Sơn Trà, Đà Nẵng","6,7 tỷ","137,8 m²",8 phòng,8 phòng,Tây - Nam,,,5.78 m,4 m,Sổ đỏ/ Sổ hồng.,
+"Dự án Nam Cầu Tuyên Sơn-Nam Việt Á, Đường Đoàn Khuê, Phường Khuê Mỹ, Ngũ Hành Sơn, Đà Nẵng","2,95 tỷ",100 m²,,,,,,,,,
+"Dự án Nam Cầu Tuyên Sơn-Nam Việt Á, Đường Đa Phước 3, Phường Khuê Mỹ, Ngũ Hành Sơn, Đà Nẵng","4,8 tỷ",100 m²,,,Đông - Nam,,,,7.5 m,,
+"Dự án Nam Cầu Tuyên Sơn-Nam Việt Á, Đường Mạc Cửu, Phường Khuê Mỹ, Ngũ Hành Sơn, Đà Nẵng",Thỏa thuận,100 m²,2 phòng,,,,,,,,
+"Dự án Nam Cầu Tuyên Sơn-Nam Việt Á, Phố Phạm Tuấn Tài, Phường Khuê Mỹ, Ngũ Hành Sơn, Đà Nẵng",13 tỷ,"236,4 m²",,,Tây - Bắc,,,,,,
+"Dự án The Sang Residence, Đường Phạm Kiệt, Phường Khuê Mỹ, Ngũ Hành Sơn, Đà Nẵng","3,66 tỷ","82,5 m²",2 phòng,2 phòng,,,,,,Sổ đỏ/ Sổ hồng,
+"Đường Trần Kế Xương, Phường Hải Châu II, Hải Châu, Đà Nẵng",,,,,,,,,,,
+"Dự án The 6Nature Đà Nẵng, Đường Võ Nguyên Giáp, Phường Phước Mỹ, Sơn Trà, Đà Nẵng","3,7 tỷ",60 m²,2 phòng,2 phòng,Đông - Bắc,Đông - Nam,,,,Sổ đỏ/ Sổ hồng,Đầy đủ
+"Đường Phong Bắc 9, Phường Hòa Thọ Đông, Cẩm Lệ, Đà Nẵng","3,1 tỷ",100 m²,3 phòng,,,,,,,,
+"Đường Nguyễn Đình Thi, Phường Hòa Xuân, Cẩm Lệ, Đà Nẵng","11,5 tỷ",250 m²,,,,,,10 m,,,
+"Đường Quốc lộ 1A, Xã Hòa Phước, Hòa Vang, Đà Nẵng","4,8 tỷ",95 m²,3 phòng,2 phòng,Đông,Đông,2 tầng,5.5 m,33 m,Sổ đỏ/ Sổ hồng,
+"Đường Nam Kỳ Khởi Nghĩa, Xã Hòa Châu, Hòa Vang, Đà Nẵng","2,8 tỷ",520 m²,,,Đông,,,10 m,5 m,Sổ đỏ/ Sổ hồng,
+"Đường Văn Tiến Dũng, Phường Hòa Xuân, Cẩm Lệ, Đà Nẵng","4,99 tỷ",125 m²,,,Tây - Nam,,,5 m,10.5 m,Sổ đỏ/ Sổ hồng.,
+"Đường Trường Sơn, Phường Hòa Thọ Tây, Cẩm Lệ, Đà Nẵng","3,5 tỷ",1.200 m²,,,Đông - Nam,,,42 m,5 m,Sổ đỏ/ Sổ hồng,
+"Đường Trịnh Khả, Phường Hòa Xuân, Cẩm Lệ, Đà Nẵng",,,,,,,,,,,
+"Đường Hòa Liên 4, Xã Hòa Liên, Hòa Vang, Đà Nẵng",,,,,,,,,,,
+"Đường Huỳnh Xuân Nhị, Phường Hòa Xuân, Cẩm Lệ, Đà Nẵng","4,55 tỷ",137 m²,2 phòng,2 phòng,Tây - Nam,Tây - Nam,2 tầng,7.5 m,7.5 m,Sổ đỏ/ Sổ hồng.,
+"Đường Huỳnh Xuân Nhị, Phường Hòa Xuân, Cẩm Lệ, Đà Nẵng","4,55 tỷ",137 m²,2 phòng,2 phòng,Tây - Nam,Tây - Nam,2 tầng,7.5 m,7.5 m,Sổ đỏ/ Sổ hồng.,
+"Đường Quốc lộ 1A, Xã Hòa Phước, Hòa Vang, Đà Nẵng","4,8 tỷ",95 m²,3 phòng,2 phòng,Đông,Đông,2 tầng,5.5 m,33 m,Sổ đỏ/ Sổ hồng,
+"Đường Nam Kỳ Khởi Nghĩa, Phường Hòa Quý, Ngũ Hành Sơn, Đà Nẵng",7 tỷ,210 m²,,,Tây - Bắc,,,12 m,33 m,Sổ đỏ/ Sổ hồng.,
+"Đường Phạm Thận Duật, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng","6,5 tỷ",173 m²,4 phòng,4 phòng,Tây - Nam,Tây - Nam,3 tầng,7.5 m,7.5 m,Sổ đỏ/ Sổ hồng,
+"Đường Thái Thị Bôi, Phường Chính Gián, Thanh Khê, Đà Nẵng","2,3 tỷ",38 m²,2 phòng,2 phòng,Đông - Bắc,Nam,1 tầng,8 m,2 m,Sổ đỏ/ Sổ hồng,
+"Đường Võ Nguyên Giáp, Phường Khuê Mỹ, Ngũ Hành Sơn, Đà Nẵng",31 tỷ,188 m²,5 phòng,3 phòng,Đông,Đông,3 tầng,7.5 m,33 m,Sổ đỏ/ Sổ hồng,
+"Đường Bùi Tá Hán, Phường Khuê Mỹ, Ngũ Hành Sơn, Đà Nẵng","5,8 tỷ",200 m²,,,,,,,,,
+"Đường Trần Quý Hai, Phường Hòa Thọ Đông, Cẩm Lệ, Đà Nẵng","3,25 tỷ",70 m²,,,,,,6.75 m,,,
+"Đường Nguyễn Tất Thành, Phường An Khê, Thanh Khê, Đà Nẵng",20 tỷ,250 m²,,,,,,,,,
+"Dự án The Ori Garden, Đường Mê Linh, Phường Hòa Hiệp Nam, Liên Chiểu, Đà Nẵng","1,56 tỷ","59,2 m²",2 phòng,2 phòng,Tây - Nam,Tây,,,,Sổ đỏ/ Sổ hồng.,Đầy đủ.
+"Dự án The Ori Garden, Đường Mê Linh, Phường Hòa Hiệp Nam, Liên Chiểu, Đà Nẵng",950 triệu,45 m²,1 phòng,1 phòng,Đông,,,,,Đang chờ sổ.,
+"Đường Phước Trường 6, Phường Phước Mỹ, Sơn Trà, Đà Nẵng",,,,,,,,,,,
+"Dự án Sun Cosmo Residence, Đường Trần Thị Lý, Ngũ Hành Sơn, Đà Nẵng",170 triệu/m²,102 m²,,,,,,,,Sổ đỏ/ Sổ hồng,
+"Dự án Sun Cosmo Residence, Đường Trần Thị Lý, Ngũ Hành Sơn, Đà Nẵng",Thỏa thuận,100 m²,4 phòng,3 phòng,Bắc,Nam,4 tầng,5 m,7.5 m,Sổ đỏ/ Sổ hồng,Đầy đủ
+"Dự án FPT City Đà Nẵng, Đường An Nông, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng","1,89 tỷ",77 m²,2 phòng,2 phòng,,,,,,Sổ đỏ/ Sổ hồng,
+"Dự án FPT City Đà Nẵng, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng",Thỏa thuận,70 m²,2 phòng,2 phòng,Đông,Nam,,,,Sổ đỏ/ Sổ hồng,Đầy đủ
+"Dự án Nam Cầu Tuyên Sơn-Nam Việt Á, Phố Phạm Tuấn Tài, Phường Khuê Mỹ, Ngũ Hành Sơn, Đà Nẵng","4,29 tỷ",89 m²,,,Đông - Nam,,,5 m,7.5 m,Sổ đỏ/ Sổ hồng,
+"Dự án Sơn Trà Ocean View, Đường Ngô Quyền, Phường Thọ Quang, Sơn Trà, Đà Nẵng","1,53 tỷ",54 m²,1 phòng,1 phòng,,,,,,,"Tivi, tủ lạnh, máy giặt, giường tủ quần áo, đệm, bàn làm việc, sofa."
+"Đường 602, Xã Hòa Ninh, Hòa Vang, Đà Nẵng",Thỏa thuận,1.400 m²,,,Đông - Bắc,,,10 m,5 m,Sổ đỏ/ Sổ hồng,
+"Đường 602, Xã Hòa Ninh, Hòa Vang, Đà Nẵng",4 tỷ,2.000 m²,,,Đông - Nam,,,30 m,7.5 m,Sổ đỏ/ Sổ hồng,
+"Đường 602, Xã Hòa Ninh, Hòa Vang, Đà Nẵng",4 tỷ,2.000 m²,,,Đông - Nam,,,30 m,7.5 m,Sổ đỏ/ Sổ hồng,
+"Đường Trường Sơn, Xã Hòa Nhơn, Hòa Vang, Đà Nẵng","2,5 tỷ",170 m²,,1 phòng,Tây - Bắc,,,12 m,15 m,,
+"Dự án Euro Village 2, Phường Hòa Xuân, Cẩm Lệ, Đà Nẵng",49 triệu/m²,300 m²,,,Đông - Nam,,,12.5 m,7.5 m,Đã có sổ.,
+"Dự án The Ocean Villas, Đường Trường Sa, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng",Thỏa thuận,430 m²,3 phòng,4 phòng,Đông,Đông,3 tầng,16 m,20 m,Sổ đỏ/ Sổ hồng,Cơ bản
+"Dự án The Ocean Villas, Đường Trường Sa, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng",13 tỷ,350 m²,5 phòng,5 phòng,Đông,Đông,3 tầng,15 m,20 m,Sổ đỏ/ Sổ hồng,Cơ bản
+"Đường Lê Lai, Phường Thạch Thang, Hải Châu, Đà Nẵng","6,5 tỷ",49 m²,2 phòng,2 phòng,Nam,,2 tầng,,,,
+"Đường Võ Nguyên Giáp, Phường Mỹ An, Ngũ Hành Sơn, Đà Nẵng",39 tỷ,140 m²,31 phòng,31 phòng,Đông,Đông,9 tầng,7 m,33 m,,
+"Đường Khúc Hạo, Phường Mân Thái, Sơn Trà, Đà Nẵng",12 tỷ,130 m²,5 phòng,5 phòng,,,3 tầng,,,,
+"Đường Quốc lộ 1A, Xã Hòa Châu, Hòa Vang, Đà Nẵng","1,6 tỷ",143 m²,,,Đông,,,5.5 m,5 m,Sổ đỏ/ Sổ hồng.,
+"Dự án FPT City Đà Nẵng, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng",Thỏa thuận,72 m²,2 phòng,,,,,,,Sổ đỏ/ Sổ hồng,Cơ bản
+"Đường Chế Lan Viên, Phường Mỹ An, Ngũ Hành Sơn, Đà Nẵng",51 tỷ,714 m²,,,,,,,,,
+"Đường Đống Đa, Phường Thuận Phước, Hải Châu, Đà Nẵng",20 tỷ,129 m²,,,,,,,,,
+"Đường Nguyễn Hữu Thọ, Phường Hòa Thuận Tây, Hải Châu, Đà Nẵng","12,95 tỷ","85,1 m²",5 phòng,5 phòng,Tây - Nam,,,,,,
+"Đường Liêm Lạc 17, Phường Hòa Xuân, Cẩm Lệ, Đà Nẵng","2,3 tỷ",100 m²,,,Bắc,,,5 m,5.5 m,,
+"Đường Mạc Đăng Dung, Phường Hòa Xuân, Cẩm Lệ, Đà Nẵng","3,45 tỷ",100 m²,,,Tây - Nam,,,7 m,5 m,,
+"Dự án Hoàng Anh Gia Lai Lake View Residence, Quận Thanh Khê, Đà Nẵng","1,95 tỷ",94 m²,2 phòng,2 phòng,Nam,,,,,Sổ đỏ/ Sổ hồng.,Đầy đủ.
+"Dự án FPT City Đà Nẵng, Đường Võ Chí Công, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng","1,6 tỷ",75 m²,2 phòng,2 phòng,Đông - Nam,,,,,Sổ đỏ/ Sổ hồng,Đầy đủ
+"Đường Nguyễn Hữu Thọ, Phường Khuê Trung, Cẩm Lệ, Đà Nẵng",52 tỷ,496 m²,,,Tây,,,20 m,35 m,Sổ đỏ/ Sổ hồng,
+"Đường Trường Sa, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng",41 tỷ,"997,1 m²",,,,,,25 m,,,
+"Đường 30/4, Phường Hòa Cường Bắc, Hải Châu, Đà Nẵng","17,5 tỷ",135 m²,,,,,4 tầng,5 m,,,
+"Phố Bà Huyện Thanh Quan, Phường Khuê Mỹ, Ngũ Hành Sơn, Đà Nẵng",85 triệu/m²,412 m²,,,,,,,,,
+"Đường 30/4, Phường Hòa Cường Bắc, Hải Châu, Đà Nẵng",115 triệu/m²,160 m²,,,Bắc,,,5 m,15 m,,
+"Đường Xuân Thiều 14, Phường Hòa Hiệp Nam, Liên Chiểu, Đà Nẵng",3 tỷ,100 m²,,,Tây,,,,,,
+"Đường Chương Dương, Phường Mỹ An, Ngũ Hành Sơn, Đà Nẵng",,,,,,,,,,,
+"Dự án FPT City Đà Nẵng, Đường Võ Chí Công, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng","1,7 tỷ",75 m²,2 phòng,2 phòng,,,,,,Sổ đỏ/ Sổ hồng,Cơ bản
+"Đường Nguyễn Tất Thành, Phường Xuân Hà, Thanh Khê, Đà Nẵng",Thỏa thuận,250 m²,,,Đông - Bắc,,,10 m,,,
+"Đường Hoàng Sa, Phường Mân Thái, Sơn Trà, Đà Nẵng",220 triệu/m²,110 m²,,,Đông,,,5 m,15 m,,
+"Đường Nguyễn Xiển, Ngũ Hành Sơn, Đà Nẵng",11 tỷ,139 m²,,,Đông - Nam,,,,7.5 m,,
+"Dự án À La Carte Hotel, Đường Dương Đình Nghệ, Phường Phước Mỹ, Sơn Trà, Đà Nẵng","2,9 tỷ","64,5 m²",,,,,,,,,
+"Phường Hòa Khánh Bắc, Liên Chiểu, Đà Nẵng",Thỏa thuận,100.000 m²,,,,,,,,,
+"Đường Vũ Miên, Xã Hòa Phước, Hòa Vang, Đà Nẵng",30 triệu/m²,225 m²,,,Tây - Bắc,,,,,,
+"Dự án Regal Pavillon Đà Nẵng, Đường Hóa Sơn 10, Phường Hòa Cường Nam, Hải Châu, Đà Nẵng","14,5 tỷ",120 m²,4 phòng,4 phòng,Bắc,,4 tầng,6 m,6 m,Sổ đỏ/ Sổ hồng,Không nội thất
+"Đường Phạm Đức Nam, Phường Hòa Quý, Ngũ Hành Sơn, Đà Nẵng","2,7 tỷ",100 m²,,,Đông - Nam,,,5 m,7.5 m,Sổ hồng,
+"Xã Hòa Phước, Hòa Vang, Đà Nẵng",10 triệu/m²,338 m²,,,,,,7 m,7 m,,
+"Dự án F.Home, Phố Lý Thường Kiệt, Phường Thạch Thang, Hải Châu, Đà Nẵng",14 tỷ,350 m²,4 phòng,4 phòng,Tây - Nam,Tây - Nam,,,,Sổ đỏ/ Sổ hồng,
+"Phường Hòa Khánh Bắc, Liên Chiểu, Đà Nẵng",Thỏa thuận,100.000 m²,,,,,,,,,
+"Đường Vũ Miên, Xã Hòa Phước, Hòa Vang, Đà Nẵng",30 triệu/m²,225 m²,,,Tây - Bắc,,,,,,
+"Dự án Regal Pavillon Đà Nẵng, Đường Hóa Sơn 10, Phường Hòa Cường Nam, Hải Châu, Đà Nẵng","14,5 tỷ",120 m²,4 phòng,4 phòng,Bắc,,4 tầng,6 m,6 m,Sổ đỏ/ Sổ hồng,Không nội thất
+"Đường Phạm Đức Nam, Phường Hòa Quý, Ngũ Hành Sơn, Đà Nẵng","2,7 tỷ",100 m²,,,Đông - Nam,,,5 m,7.5 m,Sổ hồng,
+"Xã Hòa Phước, Hòa Vang, Đà Nẵng",10 triệu/m²,338 m²,,,,,,7 m,7 m,,
+"Dự án F.Home, Phố Lý Thường Kiệt, Phường Thạch Thang, Hải Châu, Đà Nẵng",14 tỷ,350 m²,4 phòng,4 phòng,Tây - Nam,Tây - Nam,,,,Sổ đỏ/ Sổ hồng,
+"Dự án Han River Village (Nam Hòa Xuân), Phường Hòa Quý, Ngũ Hành Sơn, Đà Nẵng",24 tỷ,620 m²,,,Nam,,,,7.5 m,Sổ đỏ/ Sổ hồng,
+"Dự án Nam Cầu Tuyên Sơn-Nam Việt Á, Đường Mỹ Đa Tây 5, Phường Khuê Mỹ, Ngũ Hành Sơn, Đà Nẵng",36 tỷ,300 m²,,,Tây,,,15 m,20 m,Sổ đỏ/ Sổ hồng,
+"Kiệt 300/21, Đường Hải Phòng, Phường Tân Chính, Thanh Khê, Đà Nẵng",,,,,,,,,,,
+"Đường Nguyễn Sơn, Phường Hòa Cường Nam, Hải Châu, Đà Nẵng",,,,,,,,,,,
+"Kiệt Đường Trần Cao Vân, Phường Xuân Hà, Thanh Khê, Đà Nẵng",,,,,,,,,,,
+"Dự án FPT City Đà Nẵng, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng","1,9 tỷ",75 m²,2 phòng,2 phòng,Tây - Nam,Đông - Bắc,,,,Sổ đỏ/ Sổ hồng,Cơ bản
+"Đường Tống Phước Phổ, Phường Hòa Cường Bắc, Hải Châu, Đà Nẵng",9 tỷ,85 m²,,,Đông,,,,,,
+"Dự án One River, Đường Song Hào, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng",Thỏa thuận,300 m²,4 phòng,3 phòng,,,,15 m,33 m,Sổ đỏ/ Sổ hồng,
+"Đường Trần Cao Vân, Phường Thanh Khê Đông, Thanh Khê, Đà Nẵng",,,,,,,,,,,
+"Dự án The Sang Residence, Đường Phạm Kiệt, Phường Khuê Mỹ, Ngũ Hành Sơn, Đà Nẵng",Thỏa thuận,"82,6 m²",2 phòng,2 phòng,,,,,,Sổ đỏ/ Sổ hồng,Đầy đủ
+"Dự án FPT City Đà Nẵng, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng",,,,,,,,,,,
+"Đường Kiều Phụng, Phường Hòa Xuân, Cẩm Lệ, Đà Nẵng","2,2 tỷ",100 m²,,,Đông,,,,,,
+"Dự án FPT City Đà Nẵng, Đường Nam Kỳ Khởi Nghĩa, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng","1,56 tỷ",56 m²,2 phòng,,,,,,,Sổ đỏ/ Sổ hồng,
+"Dự án FPT City Đà Nẵng, Đường Võ Chí Công, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng","1,5 tỷ","74,8 m²",2 phòng,2 phòng,Đông - Nam,,,,,Sổ đỏ/ Sổ hồng,
+"Dự án FPT City Đà Nẵng, Đường Võ Chí Công, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng","1,5 tỷ","74,8 m²",2 phòng,2 phòng,Đông - Nam,,,,,Sổ đỏ/ Sổ hồng,
+"Đường An Nhơn 3, Phường An Hải Bắc, Sơn Trà, Đà Nẵng","5,4 tỷ","54,5 m²",3 phòng,3 phòng,,,,,,Sổ đỏ/ Sổ hồng,
+"Đường Trần Kế Xương, Phường Hải Châu II, Hải Châu, Đà Nẵng",Thỏa thuận,54 m²,3 phòng,3 phòng,Tây - Bắc,Tây - Bắc,3 tầng,5.3 m,7.5 m,Sổ đỏ/ Sổ hồng,Đầy đủ
+"Đường Dương Trí Trạch, Phường An Hải Bắc, Sơn Trà, Đà Nẵng","6,2 tỷ",65 m²,3 phòng,3 phòng,Đông,Đông,3 tầng,5 m,5.5 m,Đã có sổ đỏ,
+"Đường Bắc Sơn, Phường Hòa An, Cẩm Lệ, Đà Nẵng","12,8 tỷ",200 m²,,,Đông,,,10 m,15 m,Sổ đỏ/ Sổ hồng.,
+"Đường Chương Dương, Phường Mỹ An, Ngũ Hành Sơn, Đà Nẵng",27 tỷ,200 m²,,,Tây,,,10 m,20 m,Sổ đỏ/ Sổ hồng.,
+"Dự án FPT City Đà Nẵng, Đường Võ Qúy Huân, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng","1,8 tỷ",71 m²,2 phòng,2 phòng,,Đông,,,,Sổ đỏ/ Sổ hồng,Cơ bản
+"Đường Phạm Cự Lượng, Phường An Hải Đông, Sơn Trà, Đà Nẵng",21 tỷ,285 m²,,,Đông,,,5.5 m,,Sổ đỏ/ Sổ hồng.,
+"Phường Hòa Quý, Ngũ Hành Sơn, Đà Nẵng",Thỏa thuận,100 m²,,,,,,,7.5 m,Đã có sổ đỏ.,
+"Dự án Fusion Resort & Villas Da Nang, Đường Trường Sa, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng",Thỏa thuận,370 m²,1 phòng,1 phòng,,,1 tầng,20 m,,Sổ đỏ/ Sổ hồng,Đầy đủ.
+"Dự án Dream Home, Đường Hà Bồng, Phường Hòa Xuân, Cẩm Lệ, Đà Nẵng","3,2 tỷ",100 m²,,,Tây - Bắc,,,5 m,7.5 m,Sổ đỏ/ Sổ hồng,
+"Phố Phùng Chí Kiên, Phường Hòa Minh, Liên Chiểu, Đà Nẵng","3,8 tỷ",75 m²,3 phòng,2 phòng,Tây - Bắc,,2 tầng,,,Sổ đỏ/ Sổ hồng,Cơ bản
+"Đường An Cư 4, Phường Phước Mỹ, Sơn Trà, Đà Nẵng","5,5 tỷ",67 m²,2 phòng,2 phòng,Đông,,2 tầng,5 m,5.5 m,,
+"Đường Vũ Quỳnh, Phường Thanh Khê Tây, Thanh Khê, Đà Nẵng","5,29 tỷ",75 m²,3 phòng,4 phòng,Đông - Bắc,Đông - Bắc,3 tầng,5 m,5.5 m,Sổ đỏ/ Sổ hồng,Đầy đủ.
+"Dự án Golden Hills City, Phường Hòa Hiệp Nam, Liên Chiểu, Đà Nẵng","1,6 tỷ",125 m²,,,,,,,,,
+"Đường Non Nước, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng","10,5 tỷ",200 m²,,,Nam,,,10 m,7.5 m,Sổ đỏ/ Sổ hồng.,
+"Đường Lê Văn Quý, Phường An Hải Bắc, Sơn Trà, Đà Nẵng","15,6 tỷ",208 m²,,,Tây,,,9 m,7.5 m,Sổ đỏ/ Sổ hồng.,
+"Đường Bình Thái 4, Phường Hòa Thọ Đông, Cẩm Lệ, Đà Nẵng","1,2 tỷ",63 m²,,,,,,,,Sổ đỏ/ Sổ hồng.,
+"Đường Trường Sơn, Xã Hòa Nhơn, Hòa Vang, Đà Nẵng",500 triệu,480 m²,,,Tây - Nam,,,,,Sổ đỏ/ Sổ hồng,
+"Đường Ngô Xuân Thu, Phường Hòa Hiệp Bắc, Liên Chiểu, Đà Nẵng","1,42 tỷ",90 m²,2 phòng,2 phòng,Đông - Nam,,1 tầng,,,Sổ đỏ/ Sổ hồng,Cơ bản
+"Đường Ngô Xuân Thu, Phường Hòa Hiệp Bắc, Liên Chiểu, Đà Nẵng","1,42 tỷ",90 m²,2 phòng,2 phòng,Đông - Nam,,1 tầng,,,Sổ đỏ/ Sổ hồng,Cơ bản
+"Dự án The Filmore Da Nang, Đường Bạch Đằng, Phường Bình Thuận, Hải Châu, Đà Nẵng","6,5 tỷ",80 m²,2 phòng,2 phòng,,,,,,Hợp đồng mua bán,Cơ bản
+"Dự án Fusion Resort & Villas Da Nang, Đường Trường Sa, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng","12,3 tỷ",427 m²,3 phòng,3 phòng,Nam,Nam,3 tầng,15.5 m,10.5 m,Sổ đỏ/ Sổ hồng,Không nội thất
+"Dự án Sun Cosmo Residence, Đường Trần Thị Lý, Ngũ Hành Sơn, Đà Nẵng","4,9 tỷ",105 m²,3 phòng,2 phòng,,,,,,Hợp đồng mua bán,Cơ bản
+"Dự án The Ocean Villas, Đường Trường Sa, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng",30 tỷ,768 m²,3 phòng,3 phòng,Nam,Nam,2 tầng,15 m,7.5 m,Sổ đỏ/ Sổ hồng,Đầy đủ
+"Dự án Marina Complex, Đường Trần Hưng Đạo, Phường Nại Hiên Đông , Sơn Trà, Đà Nẵng",8 tỷ,144 m²,3 phòng,3 phòng,,,3 tầng,6 m,24 m,Sổ đỏ/ Sổ hồng,Không nội thất
+"Đường Pasteur, Phường Hải Châu I, Hải Châu, Đà Nẵng","1,4 tỷ","26,6 m²",2 phòng,1 phòng,Tây,Tây,2 tầng,5 m,2 m,Sổ đỏ/ Sổ hồng,Cơ bản
+"Đường An Thượng 29, Phường Mỹ An, Ngũ Hành Sơn, Đà Nẵng","8,5 tỷ",70 m²,4 phòng,4 phòng,,,,5 m,7.5 m,Sổ đỏ/ Sổ hồng,Đầy đủ
+"Dự án Regal Pavillon Đà Nẵng, Phường Hòa Cường Nam, Hải Châu, Đà Nẵng",Thỏa thuận,120 m²,3 phòng,4 phòng,Đông - Nam,Đông - Nam,4 tầng,6 m,7.5 m,Sổ đỏ/ Sổ hồng,Không nội thất
+"Dự án Euro Village 2, Phường Hòa Xuân, Cẩm Lệ, Đà Nẵng",22 tỷ,300 m²,5 phòng,6 phòng,Tây - Bắc,,3 tầng,12 m,7.5 m,,
+"Đường Hoàng Sa, Phường Thọ Quang, Sơn Trà, Đà Nẵng",235 triệu/m²,290 m²,,,Đông,,,10 m,33 m,,
+"Dự án Regal Pavillon Đà Nẵng, Đường Hóa Sơn 10, Phường Hòa Cường Nam, Hải Châu, Đà Nẵng",Thỏa thuận,120 m²,6 phòng,6 phòng,Đông - Nam,Đông - Nam,4 tầng,6 m,7.5 m,Sổ đỏ/ Sổ hồng,Không nội thất
+"Đường Âu Cơ, Phường Hòa Khánh Bắc, Liên Chiểu, Đà Nẵng",Thỏa thuận,104 m²,2 phòng,2 phòng,Đông - Bắc,Đông - Bắc,2 tầng,5 m,3.5 m,Sổ đỏ/ Sổ hồng,Cơ bản
+"Đường Lê Văn Quý, Phường An Hải Bắc, Sơn Trà, Đà Nẵng","15,6 tỷ","208,6 m²",,,Tây,,,9 m,7.5 m,Sổ đỏ/ Sổ hồng,
+"38 Lê Phụng Hiểu, Phường An Hải Bắc, Sơn Trà, Đà Nẵng","9,2 tỷ","118,7 m²",5 phòng,5 phòng,Đông - Bắc,Đông - Bắc,2 tầng,,7.5 m,,
+"Đường Nguyễn Xiển, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng","3,95 tỷ",98 m²,,,Đông - Bắc,,,5 m,7.5 m,Sổ đỏ/ Sổ hồng,
+"Dự án FPT City Đà Nẵng, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng","1,7 tỷ",68 m²,2 phòng,2 phòng,,,,,,,Cơ bản
+"Dự án Indochina Riverside, Đường Bạch Đằng, Phường Bình Hiên, Hải Châu, Đà Nẵng",Thỏa thuận,108 m²,2 phòng,2 phòng,Đông,Đông,,,,Sổ đỏ/ Sổ hồng,
+"Dự án Regal Pavillon Đà Nẵng, Đường Hóa Sơn 10, Phường Hòa Cường Nam, Hải Châu, Đà Nẵng",15 tỷ,120 m²,5 phòng,4 phòng,Tây - Bắc,Bắc,4 tầng,6 m,20 m,Sổ hồng sở hữu lâu dài,Hoàn thiện ốp đá Marble mặt ngoài + Hệ cửa nhôm kính nhập khẩu + Bàn giao phần thô.
+"Đường Nguyễn Duy Trinh, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng",14 tỷ,"308,3 m²",,,,,3 tầng,,,,
+"Đường Nguyễn Văn Thoại, Phường An Hải Đông, Sơn Trà, Đà Nẵng","6,5 tỷ",82 m²,7 phòng,8 phòng,Tây - Nam,,5 tầng,5.1 m,,,
+"Đường Võ Chí Công, Phường Hòa Xuân, Cẩm Lệ, Đà Nẵng","17,4 tỷ",255 m²,,,Đông - Bắc,,,15 m,33 m,Sổ đỏ/ Sổ hồng.,
+"Đường Trần Đình Tri, Phường Hòa Minh, Liên Chiểu, Đà Nẵng","4,6 tỷ","93,6 m²",,,,,,4.5 m,10.5 m,,
+"Dự án FPT City Đà Nẵng, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng",Thỏa thuận,72 m²,2 phòng,2 phòng,Đông - Bắc,,,,,Sổ đỏ/ Sổ hồng,Cơ bản
+"Dự án The Filmore Da Nang, Đường Bạch Đằng, Phường Bình Thuận, Hải Châu, Đà Nẵng.","5,5 tỷ","51,3 m²",,,Đông - Nam,Đông - Nam,,,,Sổ đỏ/ Sổ hồng,Đầy đủ
+"Xã Hòa Ninh, Hòa Vang, Đà Nẵng",Thỏa thuận,5.000 m²,,,,,,,7.5 m,Sổ đỏ/ Sổ hồng,
+"Dự án FPT City Đà Nẵng, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng","1,45 tỷ",56 m²,2 phòng,2 phòng,,,,,,Sổ đỏ/ Sổ hồng,Đầy đủ
+"Dự án One River, Đường Song Hào, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng","20,5 tỷ",300 m²,3 phòng,,,,3 tầng,,,Sổ đỏ/ Sổ hồng,Đầy đủ.
+"Dự án Kim Long Nam City, Đường Nguyễn Sinh Sắc, Liên Chiểu, Đà Nẵng","12,5 tỷ",140 m²,,,,,4 tầng,,,Sổ đỏ/ Sổ hồng,Cơ bản.
+"Dự án Nam Cầu Tuyên Sơn-Nam Việt Á, Đường Bùi Tá Hán, Phường Khuê Mỹ, Ngũ Hành Sơn, Đà Nẵng",,,,,,,,,,,
+"Đường Phan Đình Giót, Phường Hòa Hiệp Nam, Liên Chiểu, Đà Nẵng","3,25 tỷ",87 m²,3 phòng,2 phòng,Tây,Tây,2 tầng,5 m,7.5 m,Sổ đỏ/ Sổ hồng,Không nội thất
+"Xã Hòa Ninh, Hòa Vang, Đà Nẵng",Thỏa thuận,5.000 m²,,,,,,,7.5 m,Sổ đỏ/ Sổ hồng,
+"Dự án FPT City Đà Nẵng, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng","1,45 tỷ",56 m²,2 phòng,2 phòng,,,,,,Sổ đỏ/ Sổ hồng,Đầy đủ
+"Dự án One River, Đường Song Hào, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng","20,5 tỷ",300 m²,3 phòng,,,,3 tầng,,,Sổ đỏ/ Sổ hồng,Đầy đủ.
+"Dự án Kim Long Nam City, Đường Nguyễn Sinh Sắc, Liên Chiểu, Đà Nẵng","12,5 tỷ",140 m²,,,,,4 tầng,,,Sổ đỏ/ Sổ hồng,Cơ bản.
+"Dự án Nam Cầu Tuyên Sơn-Nam Việt Á, Đường Bùi Tá Hán, Phường Khuê Mỹ, Ngũ Hành Sơn, Đà Nẵng",,,,,,,,,,,
+"Đường Phan Đình Giót, Phường Hòa Hiệp Nam, Liên Chiểu, Đà Nẵng","3,25 tỷ",87 m²,3 phòng,2 phòng,Tây,Tây,2 tầng,5 m,7.5 m,Sổ đỏ/ Sổ hồng,Không nội thất
+"Đường Nguyễn Văn Thoại, Phường Mỹ An, Ngũ Hành Sơn, Đà Nẵng",25 tỷ,"103,5 m²",21 phòng,22 phòng,,,8 tầng,4.5 m,20 m,Sổ đỏ/ Sổ hồng.,Đầy đủ.
+"Đường Đặng Vũ Hỷ, Phường An Hải Đông, Sơn Trà, Đà Nẵng","8,7 tỷ","120,6 m²",3 phòng,3 phòng,Tây,,3 tầng,4.21 m,7.5 m,Sổ đỏ/ Sổ hồng.,
+"K18 Ông Ích Khiêm, Phường Tam Thuận, Thanh Khê, Đà Nẵng","6,5 tỷ",144 m²,4 phòng,3 phòng,Nam,Nam,3 tầng,,,,
+"Dự án Nam Cầu Tuyên Sơn-Nam Việt Á, Đường Nguyễn Lữ, Phường Khuê Mỹ, Ngũ Hành Sơn, Đà Nẵng",17 tỷ,270 m²,4 phòng,4 phòng,,,2 tầng,15 m,18 m,Sổ đỏ/ Sổ hồng,Đầy đủ
+"Đường Đồng Xoài, Phường Hòa Minh, Liên Chiểu, Đà Nẵng","4,3 tỷ",125 m²,,,Nam,Nam,,5 m,10.5 m,Sổ đỏ/ Sổ hồng,Cơ bản.
+"Đường Phạm Hùng, Xã Hòa Châu, Hòa Vang, Đà Nẵng","5,65 tỷ",108 m²,3 phòng,2 phòng,Đông,Đông,2 tầng,5 m,15 m,,
+"Đường Phạm Nhữ Tăng, Phường Hòa Khê, Thanh Khê, Đà Nẵng","6,8 tỷ",81 m²,3 phòng,3 phòng,Tây - Nam,Tây - Nam,3 tầng,5.61 m,7.5 m,Sổ hồng chính chủ.,Nội thất cao cấp.
+"Đường Chính Hữu, Phường An Hải Bắc, Sơn Trà, Đà Nẵng","7,5 tỷ",131 m²,,,Nam,Nam,,5 m,5 m,Sổ đỏ/ Sổ hồng.,Đầy đủ.
+"Đường Lê Đình Dương, Phường Hải Châu II, Hải Châu, Đà Nẵng",13 tỷ,"67,41 m²",,,Đông - Nam,,3 tầng,4.07 m,10.5 m,Sổ hồng gắn tài sản.,Full nội thất.
+"Phố Lê Thanh Nghị, Phường Hòa Cường Bắc, Hải Châu, Đà Nẵng","1,7 tỷ",52 m²,,,,,,,,,
+"The 6Nature Đà Nẵng, Số 122, Đường Võ Nguyên Giáp, Phường Phước Mỹ, Sơn Trà, Đà Nẵng","6,8 tỷ",90 m²,,,,,,,,,
+"Dự án Vinpearl Condotel Đà Nẵng, Đường Ngô Quyền, Phường An Hải Bắc, Sơn Trà, Đà Nẵng","1,3 tỷ",37 m²,1 phòng,2 phòng,,,,,,Đang chờ sổ.,Đầy đủ.
+"Dự án Golden Hills City, Phường Hòa Hiệp Nam, Liên Chiểu, Đà Nẵng","3,2 tỷ","187,5 m²",,,,,,7.5 m,7.5 m,,
+"Đường Diên Hồng, Phường Hòa Xuân, Cẩm Lệ, Đà Nẵng","4,7 tỷ",100 m²,,,Đông - Bắc,,,,33 m,Sổ đỏ/ Sổ hồng,
+"Đường Trần Thủ Độ, Phường Khuê Trung, Cẩm Lệ, Đà Nẵng","5,5 tỷ","93,5 m²",3 phòng,3 phòng,,,2 tầng,5 m,10.5 m,Sổ đỏ/ Sổ hồng,Đầy đủ
+"Dự án The Sang Residence, Đường Phạm Kiệt, Phường Khuê Mỹ, Ngũ Hành Sơn, Đà Nẵng","4,08 tỷ",62 m²,1 phòng,1 phòng,Đông - Nam,Đông - Nam,,,,Sổ đỏ/ Sổ hồng.,Cao cấp.
+"Dự án The Sang Residence, Đường Phạm Kiệt, Phường Khuê Mỹ, Ngũ Hành Sơn, Đà Nẵng","3,3 tỷ",62 m²,2 phòng,2 phòng,,Đông - Nam,,,,Sổ đỏ lâu dài,Full nội thất liền tường
+"Dự án The Sang Residence, Đường Phạm Kiệt, Phường Khuê Mỹ, Ngũ Hành Sơn, Đà Nẵng","4,88 tỷ","82,5 m²",2 phòng,2 phòng,,,,,,Sổ đỏ/ Sổ hồng,Bàn giao nội thất cao cấp liền tường
+"Dự án The Sang Residence, Đường Phạm Kiệt, Phường Khuê Mỹ, Ngũ Hành Sơn, Đà Nẵng","4,69 tỷ",83 m²,2 phòng,2 phòng,Đông,Đông,,,,Sổ đỏ lâu dài,"Nội thất liền tường cao cấp nhập khẩu từ Mỹ (Biếp từ, tủ bếp, máy hút khói, máy nóng lạnh, điều hòa âm trần, full nôi thất nhà vệ sinh,...)"
+"Dự án The Sang Residence, Đường Phạm Kiệt, Phường Khuê Mỹ, Ngũ Hành Sơn, Đà Nẵng","3,86 tỷ","82,5 m²",2 phòng,2 phòng,,,,,,Sổ đỏ/ Sổ hồng,Bàn giao nội thất liền tường cao cấp
+"Đường Nguyễn Hữu An, Phường Nại Hiên Đông , Sơn Trà, Đà Nẵng",Thỏa thuận,"315,7 m²",,,Đông - Nam,,,,,,
+"Đường Trường Sa, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng",Thỏa thuận,1.000 m²,,,Đông - Bắc,,,,,,
+"Dự án FPT City Đà Nẵng, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng",26 triệu/m²,71 m²,2 phòng,2 phòng,,,,,,Sổ đỏ/ Sổ hồng,Cơ bản
+"Đường Mân Quang 9, Phường Thọ Quang, Sơn Trà, Đà Nẵng",Thỏa thuận,119 m²,,,,,,,,,
+"Đường Khuê Mỹ Đông 1, Phường Khuê Mỹ, Ngũ Hành Sơn, Đà Nẵng",Thỏa thuận,"114,8 m²",,,Đông - Bắc,,,,,,
+"Phường Hòa Quý, Ngũ Hành Sơn, Đà Nẵng",Thỏa thuận,105 m²,,,Đông - Nam,,,,,,
+"Đường Xuân Thiều 2, Phường Hòa Hiệp Nam, Liên Chiểu, Đà Nẵng","6,4 tỷ",200 m²,2 phòng,1 phòng,Tây - Bắc,,1 tầng,5 m,5.5 m,Sổ đỏ/ Sổ hồng.,
+"Dự án FPT City Đà Nẵng, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng","2,55 tỷ",102 m²,,,Bắc,,,6 m,7.5 m,Sổ đỏ/ Sổ hồng.,
+"Đường Trường Sa, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng",Thỏa thuận,1.000 m²,,,Đông - Bắc,,,,,,
+"Dự án FPT City Đà Nẵng, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng",26 triệu/m²,71 m²,2 phòng,2 phòng,,,,,,Sổ đỏ/ Sổ hồng,Cơ bản
+"Đường Mân Quang 9, Phường Thọ Quang, Sơn Trà, Đà Nẵng",Thỏa thuận,119 m²,,,,,,,,,
+"Đường Khuê Mỹ Đông 1, Phường Khuê Mỹ, Ngũ Hành Sơn, Đà Nẵng",Thỏa thuận,"114,8 m²",,,Đông - Bắc,,,,,,
+"Phường Hòa Quý, Ngũ Hành Sơn, Đà Nẵng",Thỏa thuận,105 m²,,,Đông - Nam,,,,,,
+"Đường Xuân Thiều 2, Phường Hòa Hiệp Nam, Liên Chiểu, Đà Nẵng","6,4 tỷ",200 m²,2 phòng,1 phòng,Tây - Bắc,,1 tầng,5 m,5.5 m,Sổ đỏ/ Sổ hồng.,
+"Dự án FPT City Đà Nẵng, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng","2,55 tỷ",102 m²,,,Bắc,,,6 m,7.5 m,Sổ đỏ/ Sổ hồng.,
+"Dự án FPT City Đà Nẵng, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng","1,85 tỷ",75 m²,2 phòng,2 phòng,Tây - Bắc,Đông - Bắc,,,,,Cơ bản
+"Dự án À La Carte Hotel, Đường Võ Nguyên Giáp, Phường Phước Mỹ, Sơn Trà, Đà Nẵng",Thỏa thuận,"82,5 m²",2 phòng,2 phòng,,,,,,,
+"Dự án FPT City Đà Nẵng, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng","1,8 tỷ",72 m²,2 phòng,1 phòng,,Đông,,,,Sổ đỏ/ Sổ hồng.,Đầy đủ.
+"Đường An Thượng 29, Phường Mỹ An, Ngũ Hành Sơn, Đà Nẵng",9 tỷ,324 m²,,,,,,,,,
+"Dự án FPT City Đà Nẵng, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng","1,9 tỷ",75 m²,2 phòng,2 phòng,,,,,,Sổ đỏ/ Sổ hồng.,
+"Dự án Kim Long City, Đường Nguyễn Sinh Sắc, Phường Hòa Minh, Liên Chiểu, Đà Nẵng","4,4 tỷ",100 m²,,,Đông - Nam,,,5 m,7.5 m,Sổ đỏ/ Sổ hồng,
+"Dự án The 6Nature Đà Nẵng, Đường Võ Nguyên Giáp, Phường Phước Mỹ, Sơn Trà, Đà Nẵng",Thỏa thuận,"82,5 m²",2 phòng,2 phòng,,,,,,,
+"Dự án FPT City Đà Nẵng, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng","1,8 tỷ",70 m²,2 phòng,2 phòng,,,,,,Sổ đỏ/ Sổ hồng,Cơ bản
+"Phố Bà Huyện Thanh Quan, Phường Mỹ An, Ngũ Hành Sơn, Đà Nẵng","19,8 tỷ","251,6 m²",11 phòng,12 phòng,,,4 tầng,17 m,10.5 m,Sổ đỏ/ Sổ hồng,Đầy đủ
+"Đường Đào Duy Tùng, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng",31 triệu/m²,375 m²,,,Bắc,,,15 m,34 m,Sổ đỏ/ Sổ hồng,
+"Dự án FPT City Đà Nẵng, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng","1,25 tỷ",49 m²,1 phòng,1 phòng,Đông - Nam,Tây - Bắc,,,,Sổ đỏ/ Sổ hồng,Đầy đủ
+"Đường Trần Quang Khải, Phường Mân Thái, Sơn Trà, Đà Nẵng","2,7 tỷ",88 m²,2 phòng,2 phòng,,,1 tầng,4.3 m,4 m,Sổ đỏ/ Sổ hồng,Đầy đủ.
+"Dự án FPT City Đà Nẵng, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng","3,2 tỷ",144 m²,,,Bắc,,,6 m,7.5 m,Sổ đỏ/ Sổ hồng.,
+"Dự án FPT City Đà Nẵng, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng","3,2 tỷ",144 m²,,,Bắc,,,6 m,7.5 m,Sổ đỏ/ Sổ hồng.,
+"Đường Đông Hải 5, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng",3 tỷ,100 m²,,,Bắc,,,,5.5 m,Sổ đỏ/ Sổ hồng.,
+"Đường Bình Minh 1, Phường Bình Thuận, Hải Châu, Đà Nẵng",,,,,,,,,,,
+"Đường Bùi Xương Tự, Phường Hòa Thọ Đông, Cẩm Lệ, Đà Nẵng","3,45 tỷ",100 m²,3 phòng,3 phòng,Đông,,1 tầng,,7.5 m,Sổ đỏ/ Sổ hồng.,
+"Đường Trần Duy Chiến, Phường Mân Thái, Sơn Trà, Đà Nẵng","4,5 tỷ",96 m²,2 phòng,1 phòng,Đông,,1 tầng,,10.5 m,Sổ đỏ/ Sổ hồng,
+"Đường Quốc lộ 1A, Xã Hòa Châu, Hòa Vang, Đà Nẵng",,,,,,,,,,,
+"Đường Lê Văn Quý, Phường An Hải Bắc, Sơn Trà, Đà Nẵng","16,3 tỷ",210 m²,,,Tây,,,,7.5 m,Sổ đỏ/ Sổ hồng.,
+"Đường Cách Mạng Tháng Tám, Phường Khuê Trung, Cẩm Lệ, Đà Nẵng",34 tỷ,600 m²,,,,,4 tầng,33 m,7.5 m,,
+"Đường Tô Hiến Thành, Phường Phước Mỹ, Sơn Trà, Đà Nẵng","10,5 tỷ",180 m²,,,Tây,,,,3.5 m,Sổ đỏ/ Sổ hồng.,
+"Đường Hoàng Kế Viêm, Phường Mỹ An, Ngũ Hành Sơn, Đà Nẵng","13,3 tỷ",114 m²,4 phòng,3 phòng,Tây - Bắc,,3 tầng,5 m,7.5 m,Sổ đỏ/ Sổ hồng.,
+"Dự án FPT City Đà Nẵng, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng",32 triệu/m²,1.145 m²,,,Bắc,,,38 m,7 m,Sổ đỏ/ Sổ hồng,
+"Dự án The Sang Residence, Đường Phạm Kiệt, Phường Khuê Mỹ, Ngũ Hành Sơn, Đà Nẵng",Thỏa thuận,105 m²,3 phòng,2 phòng,,,,,,Sổ đỏ/ Sổ hồng.,
+"Đường Trần Hưng Đạo, Phường An Hải Tây, Sơn Trà, Đà Nẵng",170 triệu/m²,140 m²,,,Tây - Bắc,,,5 m,33 m,Sổ đỏ/ Sổ hồng.,
+"Dự án The 6Nature Đà Nẵng, Đường Võ Nguyên Giáp, Phường Phước Mỹ, Sơn Trà, Đà Nẵng","3,6 tỷ","82,5 m²",3 phòng,2 phòng,,,,,,Sổ đỏ/ Sổ hồng.,
+"Đường 602, Xã Hòa Sơn, Hòa Vang, Đà Nẵng","1,75 tỷ",100 m²,,,Tây - Bắc,,,5 m,7.5 m,Sổ đỏ/ Sổ hồng,
+"Đường Hoàng Văn Thụ, Phường Hải Châu II, Hải Châu, Đà Nẵng",Thỏa thuận,290 m²,,,,,,8 m,,,
+"Xã Hòa Sơn, Hòa Vang, Đà Nẵng","1,45 tỷ",100 m²,,,Đông - Bắc,,,5 m,7.5 m,,
+"Xã Hòa Tiến, Hòa Vang, Đà Nẵng","1,7 tỷ",161 m²,,,Đông - Bắc,,,7 m,5.5 m,Sổ đỏ/ Sổ hồng.,
+"Đường Phạm Cự Lượng, Phường An Hải Đông, Sơn Trà, Đà Nẵng","7,8 tỷ",61 m²,3 phòng,4 phòng,Đông,,4 tầng,4.7 m,7.5 m,Sổ đỏ/ Sổ hồng.,Đầy đủ.
+"Đường Trần Tấn Mới, Phường Hòa Thuận Tây, Hải Châu, Đà Nẵng","9,2 tỷ",171 m²,4 phòng,5 phòng,,,3 tầng,7 m,7.5 m,Sổ đỏ/ Sổ hồng,Đầy đủ.
+"Dự án Euro Village 2, Đường Nguyễn Văn Thông, Phường Hòa Xuân, Cẩm Lệ, Đà Nẵng",Thỏa thuận,650 m²,,,,,,25 m,7.5 m,Sổ đỏ/ Sổ hồng,
+"Phố Tôn Đức Thắng, Phường Hòa Khánh Bắc, Liên Chiểu, Đà Nẵng",Thỏa thuận,640 m²,,,,,,21 m,33 m,Sổ đỏ/ Sổ hồng,
+"Dự án Vinpearl Premium Đà Nẵng, Đường Trường Sa, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng",40 tỷ,1.000 m²,3 phòng,4 phòng,,,2 tầng,,,Sổ đỏ/ Sổ hồng,Cơ bản
+"Dự án FPT City Đà Nẵng, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng","1,8 tỷ",70 m²,2 phòng,1 phòng,Đông - Bắc,Tây - Nam,,,,Sổ đỏ/ Sổ hồng,Đầy đủ
+"Phố Thi Sách, Phường Hòa Thuận Tây, Hải Châu, Đà Nẵng",Thỏa thuận,90 m²,8 phòng,8 phòng,,,4 tầng,,10.5 m,,
+"Kiệt 204 Hải Phòng, Phường Tân Chính, Thanh Khê, Đà Nẵng","3,25 tỷ",60 m²,2 phòng,4 phòng,Tây - Bắc,Tây - Bắc,3 tầng,4.7 m,2.5 m,Sổ đỏ/ Sổ hồng,Đầy đủ.
+"Dự án FPT City Đà Nẵng, Đường Võ Qúy Huân, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng.",Thỏa thuận,70 m²,2 phòng,2 phòng,Tây - Bắc,Đông - Nam,,,,Sổ đỏ/ Sổ hồng,Đầy đủ
+"Dự án FPT City Đà Nẵng, Phường Hòa Hải, Ngũ Hành Sơn, Đà Nẵng","1,8 tỷ","70,8 m²",2 phòng,2 phòng,,,,,,Sổ đỏ/ Sổ hồng,
+"Đường Võ Duy Ninh, Phường Thọ Quang, Sơn Trà, Đà Nẵng",2 tỷ,60 m²,,,Tây - Bắc,,,5 m,4 m,Sổ đỏ/ Sổ hồng.,
+"Đường Phan Văn Trị, Phường Khuê Trung, Cẩm Lệ, Đà Nẵng","10,5 tỷ",198 m²,4 phòng,3 phòng,Nam,,3 tầng,11 m,7.5 m,Sổ đỏ/ Sổ hồng.,
+"Đường An Dương Vương, Phường Mỹ An, Ngũ Hành Sơn, Đà Nẵng","5,5 tỷ",100 m²,3 phòng,2 phòng,,,2 tầng,4.5 m,33 m,Sổ đỏ/ Sổ hồng.,Cơ bản.
+"Đường Nguyễn Chí Thanh, Phường Hải Châu I, Hải Châu, Đà Nẵng","3,8 tỷ","66,5 m²",6 phòng,,Bắc,,1 tầng,,,,
